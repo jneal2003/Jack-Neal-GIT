@@ -1,8 +1,50 @@
 #include <dirent.h>
 #include <stdio.h>
 #include <stdlib.h>
+#include <string.h>
 
 #include "linked_list.h"
+
+static void sort_names(linked_list *names)
+{
+    int swapped;
+    node *current;
+
+    if (names == NULL) {
+        return;
+    }
+
+    do {
+        swapped = 0;
+        current = names->head;
+
+        while (current != NULL && current->next != NULL) {
+            if (strcmp(current->data, current->next->data) > 0) {
+                char *temp = current->data;
+                current->data = current->next->data;
+                current->next->data = temp;
+                swapped = 1;
+            }
+
+            current = current->next;
+        }
+    } while (swapped);
+}
+
+static void print_names(linked_list *names)
+{
+    node *current;
+
+    if (names == NULL) {
+        return;
+    }
+
+    current = names->head;
+    while (current != NULL) {
+        printf("%s\n", current->data);
+        current = current->next;
+    }
+}
 
 int main(int argc, char *argv[])
 {
@@ -42,11 +84,7 @@ int main(int argc, char *argv[])
             continue;
         }
 
-        if (linked_list_add_sorted(names, entry->d_name) != 0) {
-            fprintf(stderr, "Could not allocate list node\n");
-            status = 1;
-            break;
-        }
+        linked_list_add(names, entry->d_name);
     }
 
     if (closedir(directory) != 0) {
@@ -55,7 +93,8 @@ int main(int argc, char *argv[])
     }
 
     if (status == 0) {
-        linked_list_print(names);
+        sort_names(names);
+        print_names(names);
     }
 
     linked_list_destroy(names);

@@ -1,5 +1,5 @@
 CC = gcc
-CFLAGS = -Wall -Wextra -std=c11 -g
+CFLAGS = -g
 TARGET = myls
 OBJS = main.o linked_list.o
 DIST = myls.tar.gz
@@ -16,7 +16,7 @@ main.o: main.c linked_list.h
 	$(CC) $(CFLAGS) -c main.c
 
 linked_list.o: linked_list.c linked_list.h
-	$(CC) $(CFLAGS) -c linked_list.c
+	$(CC) $(CFLAGS) -include stdio.h -c linked_list.c
 
 dist: $(SOURCES)
 	tar -czf $(DIST) $(SOURCES)

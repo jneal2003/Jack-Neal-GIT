@@ -1,97 +1,114 @@
-#include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
-
 #include "linked_list.h"
 
-linked_list *linked_list_create(void)
-{
-    linked_list *ll = malloc(sizeof(linked_list));
 
-    if (ll == NULL) {
-        return NULL;
-    }
+linked_list* linked_list_create(){
+  linked_list *ll;
+  ll = (linked_list*)malloc(sizeof(linked_list));
 
-    ll->count = 0;
-    ll->head = NULL;
+  ll->count = 0;
+  ll->head = NULL;
 
-    return ll;
+  return ll;
 }
+void linked_list_destroy(linked_list* ll){
+  node *current = ll->head;
+  node *next;
 
-void linked_list_destroy(linked_list *ll)
-{
-    node *current;
+  while (current != NULL) {
+    next = current->next;
+    free(current->data);
+    free(current);
+    current = next;
+  }
 
-    if (ll == NULL) {
-        return;
-    }
-
-    current = ll->head;
-    while (current != NULL) {
-        node *next = current->next;
-        free(current->data);
-        free(current);
-        current = next;
-    }
-
-    free(ll);
+  free(ll);
 }
+void linked_list_add(linked_list* ll, char* buffer){
+  node *temp = ll->head;
+  node *new = (node*)malloc(sizeof(node));
 
-int linked_list_add_sorted(linked_list *ll, const char *name)
-{
-    node *new_node;
-    node *current;
-    node *previous;
+  new->data = malloc(strlen(buffer) + 1);
+  strcpy(new->data, buffer);
+  new->next = NULL;
 
-    if (ll == NULL || name == NULL) {
-        return 1;
-    }
-
-    new_node = malloc(sizeof(node));
-    if (new_node == NULL) {
-        return 1;
-    }
-
-    new_node->data = malloc(strlen(name) + 1);
-    if (new_node->data == NULL) {
-        free(new_node);
-        return 1;
-    }
-
-    strcpy(new_node->data, name);
-    new_node->next = NULL;
-
-    previous = NULL;
-    current = ll->head;
-
-    while (current != NULL && strcmp(current->data, name) < 0) {
-        previous = current;
-        current = current->next;
-    }
-
-    if (previous == NULL) {
-        new_node->next = ll->head;
-        ll->head = new_node;
+  if (ll->head == NULL) {
+        ll->head = new;
     } else {
-        new_node->next = current;
-        previous->next = new_node;
+        while (temp->next != NULL) {
+            temp = temp->next;
+        }
+
+        temp->next = new;
     }
 
     ll->count++;
-    return 0;
 }
-
-void linked_list_print(const linked_list *ll)
-{
-    node *current;
-
-    if (ll == NULL) {
-        return;
+void linked_list_delete(linked_list* ll, node* n){
+  node *temp = ll->head;
+  node *last;
+  if (temp == NULL) {
+    return;
+  }
+  if (temp == n) {
+    ll->head = temp->next;
+    free(temp->data);
+    free(temp);
+    ll->count--;
+return;
+  }
+  while (temp != n) {
+    if (temp->next == NULL){
+      return;
     }
+    last = temp;
+    temp = temp->next;
+  }
 
-    current = ll->head;
-    while (current != NULL) {
-        printf("%s\n", current->data);
-        current = current->next;
+  last->next = temp->next;
+  free(temp->data);
+  free(temp);
+  ll->count--;
+}
+node* linked_list_get(linked_list* ll, int count){
+  int i = 0;
+  node* temp = ll->head;
+  while (i != count) {
+    if (temp == NULL) {
+      return NULL;
     }
+    temp = temp->next;
+    i++;
+  }
+  return temp;
+}
+node* linked_list_search(linked_list* ll, char* buffer){
+  node *temp = ll->head;
+  if (temp != NULL) {
+    while(strcmp(temp->data, buffer) != 0) {
+      if (temp->next == NULL) {
+        return NULL;
+      }
+      temp = temp->next;
+    }
+    return temp;
+  }
+  else {
+    return NULL;
+  }
+}
+void linked_list_print(linked_list* ll){
+  if (ll->count == 0) {
+    printf("Linked List Empty\n");
+    return;
+  }
+  int i = 0;
+  node *temp = ll->head;
+  while (temp != NULL) {
+    printf("%i %s\n", i, temp->data);
+    temp = temp->next;
+    i++;
+  }
+  return;
 }
