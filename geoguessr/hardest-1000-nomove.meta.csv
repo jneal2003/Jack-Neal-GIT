@@ -1,0 +1,1001 @@
+lat,lng,panoId,country,year,month,gen,region,road,address
+37.6069265,13.9366043,PSBOfa-k_o3kDQzvjCMh1Q,IT,2024,6,4,Italy S/islands,SP42,SP42 / Sicily
+-34.6613533,-63.9359578,XNn50Ik22d5tES_-8djZzA,AR,2026,8,4,Argentina Pampas,RP10,RP10 / Córdoba Province
+42.9059993,20.9616729,Gv44IQG7dNzQWQ3f-Wb2QQ,XK,2026,3,4,Serbia/Bosnia/Croatia,Rrugë Mursel Bllata,Rrugë Mursel Bllata / Rashan
+8.9332104,99.3321188,hyFHxkcffHAbSp1UUrpT2w,TH,2025,8,4,Thailand,สฎ.2054,"สฎ.2054 / Na Tai, Surat Thani"
+-30.9205762,19.9885923,4mjuB3iilJajoJOIWmb5-g,ZA,2025,3,4,South Africa,,Northern Cape
+47.4437985,-101.9644832,5AcuPGo1gqjP4m3u1ucQZw,US,2021,8,4,US Plains,2nd St NW,"6604 2nd St NW / Zap, North Dakota"
+49.4957443,-99.6302393,VTg7-SIScvGpuV3yCfKrtQ,CA,2026,4,4,Canada Prairies,MB-18,"MB-18 / Wawanesa, Manitoba"
+54.1435669,74.3487766,sOB5hFnv21mGvvbqSjt5XA,RU,2021,7,4,Kazakhstan N,Tavricheskoye,Tavricheskoye / Omsk Oblast
+44.0484457,-65.815394,Fz5A2bhfjxQi5G1r4H9doQ,CA,2024,9,4,Canada Maritimes,Polly Rd,"295 Polly Rd / Kemptville, Nova Scotia"
+48.2489162,-66.1072895,yZRry8hcyC3u7OSDSn5cxg,CA,2025,8,4,Canada ON/QC,,Quebec
+47.2858053,-93.151022,7-7SNMLIOEMFr5orMvepFQ,US,2025,8,4,US Upper Midwest,Co Rd 12,"28237 Co Rd 12 / Pengilly, Minnesota"
+61.7901106,21.8702315,uzWJXftKm1AWyiHen3YLnQ,FI,2025,8,4,Finland,Saarikoskentie,52 Saarikoskentie / Satakunta
+-36.7552249,-59.1316402,hQb-btkp9Z8aYR08aQESrQ,AR,2025,6,4,Argentina Pampas,RP50,RP50 / Buenos Aires Province
+-1.1713939,121.2588447,yqZ3A3-pJPKj4DGll5Os6Q,ID,2025,4,4,Indonesia Sulawesi,Uekuli - Marowo,Uekuli - Marowo / Central Sulawesi
+-4.7897182,105.5549181,zZefQRW3jaBm8xKUpRfHWg,ID,2024,2,4,Indonesia Sumatra,,Lampung
+51.7695201,-98.5905843,9loArATu4-FXL7TK3jo_jQ,CA,2025,6,4,Canada Prairies,513 Rd,"513 Rd / Gimli, Manitoba"
+41.2418259,34.2017485,NEf8e3xC6q1HlJC3zNtuAA,TR,2024,8,4,Turkey,,Kastamonu
+62.3258124,-145.201508,wMigPUtFxnAMr07bx38E2Q,US,2026,8,4,US Alaska,Tok Cut-Off Hwy,"Tok Cut-Off Hwy / Gakona, Alaska"
+-1.549441,110.4357413,RGnB8-a04Ug-ecGdgA-wkg,ID,2025,9,4,Indonesia Kalimantan,Kelik Tayap Road,Kelik Tayap Road / West Kalimantan
+39.0563602,-111.8677857,IBmviBPlWw_cMfbrqabdvg,US,2026,9,4,US Mountain/Desert,S Salt Mine Rd,"S Salt Mine Rd / Redmond, Utah"
+39.6625584,-97.7440988,JSeqnD6fAJ0v7JV6weUJOg,US,2026,5,4,US Plains,Co Rd 11,"151 Co Rd 11 / Concordia, Kansas"
+45.0960066,-63.6703232,WEXBzNGxpn35SE94yzeBNA,CA,2026,8,4,Canada Maritimes,NS-202,3392 NS-202 / Nova Scotia
+46.7718789,107.9392439,fnogxmAKDGo8pQnHH7zIlQ,MN,2015,4,3,Mongolia,AH3,AH3 / Govisümber
+56.0436932,32.8687298,BAFq2d_UQhUETTe4zBoNPA,RU,2014,9,3,Russia European W,28К-0113,28К-0113 / Tver Oblast
+-30.5755243,-69.3123039,ZEXm9860dTDfZky7q7aJng,AR,2026,5,4,Argentina Cuyo,RP412,RP412 / San Juan Province
+61.7109067,-121.2272146,ka2SGskDHNOhqQ1vj41qiw,CA,2022,8,4,Canada North,NT-1,"NT-1 / Fort Simpson, Northwest Territories"
+47.9733141,26.6998923,CUlmpxWAaZgoi_pDYJk81A,RO,2024,10,4,Romania,DJ292,DJ292 / Botoșani County
+3.5661493,-76.2318669,EOU4oPpdNKuFL3bGXKgjUw,CO,2013,12,3,Colombia,,Valle del Cauca
+64.0787528,18.3225478,HqMDHbpNszRcN40hl9Qb6g,SE,2025,10,4,Norway,92,92 / Västerbotten County
+49.5198514,-100.2401351,spQCS91PDoOXizCpf7Ur-g,CA,2024,8,4,Canada Prairies,MB-22,"MB-22 / Elgin, Manitoba"
+27.0588537,-103.3675987,PAZ-FS_4JiuNQCS1RAztnw,MX,2024,1,4,Mexico North,COAH 91,COAH 91 / Coahuila
+44.2855861,27.3603753,QzIoKA9wF0cbxfWMc5qn0Q,RO,2022,9,4,Romania,Strada Agricultori,"Strada Agricultori / Stoenești, Călărași County"
+-3.9086826,120.2621533,27gwWwmbIez9hXppp9l4yg,ID,2024,5,4,Indonesia Sulawesi,,South Sulawesi
+40.8986785,22.3371276,iPNw8JA1QyPYj-mm929BFA,GR,2026,6,4,Albania/N.Macedonia,,Decentralized Administration of Macedonia and Thrace
+-11.1264435,-48.2024394,EVcRMrZ0p5mWnn-haT5E0g,BR,2026,3,4,Brazil Centre-West,Rod. Coluna Prestes,123 Rod. Coluna Prestes / Tocantins
+-31.5458677,130.6467769,Oq992MzQd88FfsPxowgu0w,AU,2026,4,4,Australia SA,Eyre Hwy,"Eyre Hwy / Nullarbor, South Australia"
+-37.5754383,-63.442256,fS_JKyMXvpzMDZRlGzp27w,AR,2024,3,4,Argentina Pampas,San Martín,"Santa Teresa, La Pampa Province"
+14.9501896,120.1227666,i8pOkiQdHRFwxgKv3zt5zQ,PH,2023,3,4,Philippines Luzon,,"San Antonio, Central Luzon"
+30.5703046,-100.11491,kr2nKTlSKyHiOynn185LVw,US,2024,11,4,Mexico North,Co Rd 261,"6445 Co Rd 261 / Roosevelt, Texas"
+-26.6797397,17.1388798,CNPulpJ-xPjPLmNwJKtjoA,NA,2023,12,4,South Africa,B4,B4 / Karas Region
+44.9364377,-96.5574466,DkGWdsYStPuyMs2umIKQRA,US,2023,11,4,US Plains,Co Rd 290,"Co Rd 290 / Revillo, South Dakota"
+48.4600413,90.4114771,rvZwE3o-Bg2hQHZiNFqsQg,MN,2024,7,4,Mongolia,AH4,AH4 / Bayan-Ölgii
+5.1868352,116.1315879,Ya6tfC8O_W7B9s-gbJqCsQ,MY,2025,2,4,Malaysia Borneo,Jalan Ansip Dalit,"Jalan Ansip Dalit / Keningau, Sabah"
+65.7285645,-17.0876162,fF_AVerJ5n8BjcSQNHWUJw,IS,2024,7,4,Iceland,87,87 / Þingeyjarsveit
+59.9118069,49.4238478,803lzr7zjqHx5u4Fgiaa0g,RU,2021,7,4,Russia European N,Avtodoroga Vyatka,Avtodoroga Vyatka / Komi Republic
+48.4292593,61.1105732,V3KDsBcdWRn0umJss1Bo2w,KZ,2023,6,4,Kazakhstan C/S,M32,M32 / Aktobe Region
+44.4302411,-105.4547708,Qb4xlIe_4t_xQpQGE8l5Ng,US,2026,9,4,US Mountain/Desert,WY-59,"12608 WY-59 / Gillette, Wyoming"
+-37.7833397,141.7252085,fXQZgJMIGMo7cDmmGt5apg,AU,2026,9,4,Australia NSW/VIC,C187,"4549 C187 / Tahara, Victoria"
+5.1888621,116.334613,84eYpUG2FB43Lnjs7Igl9A,MY,2025,1,4,Malaysia Borneo,Jalan Sook,"Jalan Sook / Keningau, Sabah"
+-34.6720095,118.3292269,hhcWtI0zpWX3VpwDlX_kZw,AU,2026,8,4,Australia WA,South Coast Hwy,"South Coast Hwy / Green Range, Western Australia"
+-8.7579698,-40.7383999,wAvjAQPtVwyRfLxvV0W1CQ,BR,2023,12,4,Brazil NE interior,,State of Pernambuco
+53.7603199,19.5027392,bFukBSbPUdEHfQdixMxfUw,PL,2026,5,4,Poland,,Warmian-Masurian Voivodeship
+42.1893984,-4.5303096,Ihw_gGC8pRjuBg6uDEVDUQ,ES,2025,2,4,Spain interior,P-984,"P-984 / San Cebrián de Campos, Castile and León"
+48.0776992,67.5366482,0jsXhqPuTKS0Og4CfXz-Ww,KZ,2023,8,4,Kazakhstan C/S,,Ulytau Region
+63.3016932,46.1352075,TIdPNZrGDf1uAW8fLy_w3Q,RU,2021,6,4,Russia European N,Mamonikha,Mamonikha / Arkhangelsk Oblast
+-37.4062238,142.9724693,BmekCFla1K7N-RYVws10vg,AU,2023,10,4,Australia NSW/VIC,Richardson Rd,"Richardson Rd / Ballyrogan, Victoria"
+55.3587509,50.3747158,PWnKKjeLZmmAtkpw_mDGyQ,RU,2021,8,4,Russia Volga/Ural,"Pod""Yezd K Selu Bayteryakovo","Pod""Yezd K Selu Bayteryakovo / Republic of Tatarstan"
+56.6966349,93.1014439,lMmg_nhGitLsF48GIUbOtQ,RU,2013,6,3,Russia C Siberia,R409,R409 / Krasnoyarsk Krai
+44.0654588,76.9962287,2He-cbcdfaiwYiIDZeYjuA,KZ,2023,3,4,Kazakhstan C/S,,Almaty Region
+51.5104693,40.7975914,of28ExqsT69oXotd_st3Tg,RU,2021,3,4,Russia S steppe,,"Bobyakovo, Voronezh Oblast"
+52.072909,65.880685,-K3tvP-tW_1sf8Tvpxc9Ew,KZ,2023,7,4,Kazakhstan N,R-263,R-263 / Akmola Region
+36.5188607,-102.553005,ytKZNZuhuxjVMwkA537SUg,US,2024,8,4,US Plains,US-385,"US-385 / Boise City, Oklahoma"
+51.267313,29.3909413,9uabTFgU4tyjJqU5NbHOMw,UA,2015,6,3,Ukraine,Р02,Р02 / Kyiv Oblast
+49.3200361,-98.0016351,9V7Ct3-bFzdNRLOsnallTA,CA,2026,5,4,Canada Prairies,MB-3,"21035 MB-3 / Roland, Manitoba"
+1.3926572,118.083431,TsU68UBWC3gOfXEQ2D5MsQ,ID,2019,7,4,Malaysia Borneo,,East Kalimantan
+-31.3056016,147.3903614,rAPraqxwhPFLYSeAP0nsRw,AU,2024,3,4,Australia NSW/VIC,Canonba Rd,"Canonba Rd / Canonba, New South Wales"
+-8.2457042,123.4843996,Gt9EjCj50_gm0boMQrJCVg,ID,2025,6,4,Indonesia Nusa Tenggara,Jl. Ring Ileape,Jl. Ring Ileape / East Nusa Tenggara
+20.8831627,-103.9241238,x1bj9QvCRCGhJOo7hXfT3Q,MX,2024,11,4,Mexico Central,Federal Hwy 15D,"Federal Hwy 15D / Tequila, Jalisco"
+48.4707112,51.7030649,kL-IG3FA5TxTgQt2uNdApw,KZ,2023,7,4,Kazakhstan C/S,R-103,R-103 / Atyrau Region
+15.8465562,99.5934339,ICa3bq8p_A1LfuLSrkwLfg,TH,2025,10,4,Thailand,,"Wang San, Nakhon Sawan"
+51.2320378,107.8175136,Y_GVWUKS-HnftQIOW5P0yQ,RU,2021,8,4,Russia Transbaikal,,Buryatia
+65.6398323,24.7067459,ziqZkvZudLTqv3qdJ9VH_g,FI,2025,4,4,Finland,Karsikontie,48 Karsikontie / Lapland
+-8.15229,124.749056,LQPcRyWTo2Vm6IF9gZ1k5A,ID,2025,6,4,Indonesia Nusa Tenggara,Junction - Taramana,Junction - Taramana / East Nusa Tenggara
+40.2198666,-115.4881426,XdsCYTi4yfzqMIOBwvWlmw,US,2025,7,4,US Mountain/Desert,Ruby Valley Rd,"Ruby Valley Rd / Ruby Valley, Nevada"
+53.8831006,15.9339741,aaa0nun2XB6Cf7M98sq2wg,PL,2026,7,4,Poland,,West Pomeranian Voivodeship
+-45.0010721,-66.62003,EdPUttUgZTk30apMY6IflA,AR,2025,10,4,Argentina Patagonia,RP28,RP28 / Chubut Province
+-26.9692669,-51.4687865,e8vjKvZQ_2qIHfhKoQV2yQ,BR,2025,7,4,Brazil South,SC-355,SC-355 / State of Santa Catarina
+48.8338332,29.2153836,tJLoWzdCBesiSzLMHCW-7w,UA,2015,5,3,Ukraine,Е50,Е50 / Vinnytsia Oblast
+-35.9619724,137.3194351,yHz6c0ymKVparzLFQ1bEYg,AU,2024,10,4,Australia SA,Seal Bay Rd,"Seal Bay Rd / Seal Bay, South Australia"
+57.9302006,102.712019,_e7vSbHWt4ZLftKv0ZI7pQ,RU,2013,7,3,Russia C Siberia,,"Ust-Ilimsk, Irkutsk Oblast"
+47.5962414,134.8713723,ham4Gx0vkZ5O3TaJBJxntQ,RU,2013,6,3,Russia Far East,А-370,А-370 / Khabarovsk Krai
+48.9720725,23.3899596,oclj_Aryw9PHUwuWQJILyw,UA,2015,6,3,Ukraine,Е50,Е50 / Lviv Oblast
+33.1911597,-86.8313047,K6FtzAQj1UArqoiCvLMHtw,US,2026,3,4,US Deep South,Mission Hills Rd,"1511 Mission Hills Rd / Alabaster, Alabama"
+44.2614865,18.3055716,G9h7E0F--CyYgMGtTKFR-g,BA,2025,5,4,Serbia/Bosnia/Croatia,,Federation of Bosnia and Herzegovina
+32.155639,-88.8414998,or4tiMgA5cHkd3RiRr9gXA,US,2024,10,4,US Deep South,US-11,"6976 US-11 / Enterprise, Mississippi"
+18.8147298,-89.234844,c-Ja2SWctmg2FdbEA-2Wpg,MX,2023,11,4,Mexico Yucatan,Cam. / La Unión 20 de Junio,Cam. / La Unión 20 de Junio / Campeche
+51.8930108,-3.635086,Zmc8lTOoqzOaUSHqsotLpQ,GB,2021,4,4,Scotland/Wales,,Wales
+31.4944903,-103.7015089,SnmxfXpwIzT8JC15Ane5cw,US,2025,3,4,Mexico North,Farm to Market 2119,"1176 Farm to Market 2119 / Pecos, Texas"
+-30.0980954,-57.3191046,4oCepzqAgr0K5Bj-8oesnw,BR,2025,6,4,Uruguay,BR-472,BR-472 / State of Rio Grande do Sul
+53.0711963,-117.3804897,hJzGhUqcT-ic968wv3khWQ,CA,2025,9,4,Canada BC interior,AB-734,"23940 AB-734 / Luscar, Alberta"
+-26.1522791,25.4257195,VjRzvj2xJCYtVNL2eO2gDQ,ZA,2026,6,4,South Africa,R375,R375 / North West
+21.4249851,76.6463301,B9bOKveK_7fLaZdr5nrN_A,IN,2024,3,3,India,,"Bijori, Madhya Pradesh"
+45.4097193,39.2249574,72I_HBxyCIhtM0_uVFeScg,RU,2013,8,3,Russia S steppe,Zarechnaya Ulitsa,"Zarechnaya Ulitsa / Nizhnii, Krasnodar Krai"
+57.6205849,29.0659116,BNAkNo6O3PrrPypDdjVk3g,RU,2013,5,3,Russia European W,58А-309,58А-309 / Pskov Oblast
+-38.1474515,178.3198476,pGGbNFCz5jupG-bsgqbZmA,NZ,2025,11,4,New Zealand,Waiotu Rd,"131 Waiotu Rd / Tokomaru Bay, Gisborne Region"
+51.9226853,21.9474537,oixPwFfTk8gVK3K73Kc6xg,PL,2026,5,4,Poland,,Lublin Voivodeship
+66.9283346,18.6130607,Odiv7UZVcEVBTJA_D6r1XA,SE,2024,5,4,Norway,,Norrbotten County
+43.3453725,134.0933419,2VzOTIk0Axx1-3Da297lyQ,RU,2013,7,3,Russia Far East,Lazo-Milogradovo,"Lazo-Milogradovo / Staraya Kamenka, Primorsky Krai"
+57.3728977,88.4139087,99reX5vfvdKQDku13lnQhw,RU,2021,7,4,Russia C Siberia,,"Kuyanovskaya Gar', Tomsk Oblast"
+-19.8330563,146.6978259,0Ezn1S9KxQN5EOTn_24Jmw,AU,2024,8,4,Australia QLD interior,A6,"A6 / Mingela, Queensland"
+51.2286981,91.0641406,92Oda_EurDbhZMWQUq6Oxw,RU,2013,6,3,Russia C Siberia,А162,А162 / Tuva Republic
+-2.1367792,113.9619011,dNXtAb-cGuvwxWX-X1ov4A,ID,2025,3,4,Indonesia Kalimantan,Jl. Palangka Raya - Kuala Kurun,Jl. Palangka Raya - Kuala Kurun / Central Kalimantan
+40.0289854,-101.7733831,CpE6WEHYnshnWjU2uvZqrg,US,2025,12,4,US Plains,US-34,"32511 US-34 / Benkelman, Nebraska"
+-13.9269383,-75.9151473,z81113RFRHk2ctqtTCtWZw,PE,2024,3,4,Peru,,Ica
+-18.2788452,-47.9080582,HgAkAeXn99TYUJeYCPooAg,BR,2023,6,4,Brazil MG/SP interior,,State of Goiás
+47.0224325,-83.1600102,SCZE2lisxmEynrX055g9mg,CA,2026,7,4,Canada ON/QC,ON-129,ON-129 / Ontario
+52.4669461,59.6636797,PBKbbYa0UUUHjlPASqGejg,RU,2013,9,3,Russia Volga/Ural,,Chelyabinsk Oblast
+-31.0173162,-54.1735988,7IJSbxOXZf_izPGO8sZGmw,BR,2022,9,4,Uruguay,RSC-473,RSC-473 / State of Rio Grande do Sul
+54.1363243,-6.7502845,pAV-59PPZvss4fuF1LlGig,IE,2009,9,3,Ireland,,County Monaghan
+-22.4406981,139.6562808,a5rILHuVOb7THZA68eu9rA,AU,2025,3,4,Australia QLD interior,Boulia Mount Isa Hwy,"Boulia Mount Isa Hwy / Georgina, Queensland"
+-19.44156,146.0008073,e63Noh8T0tH0HUh-EmoAcg,AU,2024,6,4,Australia QLD interior,State Route 72,"State Route 72 / Dotswood, Queensland"
+-33.200635,149.3650362,a3SK7jU0Jhi65bV6_iTITQ,AU,2026,4,4,Australia NSW/VIC,Freemantle Rd,"Freemantle Rd / Gowan, New South Wales"
+-27.1464192,29.8623945,ih6-hRC5VpTvH7u0DDZc2w,ZA,2024,10,4,South Africa,,Mpumalanga
+48.6200894,51.7114886,4Y8ERkA5lgiV5PWu6ef3_Q,KZ,2023,7,4,Kazakhstan C/S,A-28,A-28 / Atyrau Region
+54.4803117,72.7121506,lxvFRRvV-uqHrYBsRC2J-A,RU,2021,7,4,Russia W Siberia,,Omsk Oblast
+-33.0796391,116.6270985,dYm0xGNbQN8bq04x8uylyw,AU,2026,5,4,Australia WA,Pinjarra-Williams Rd,"9876 Pinjarra-Williams Rd / Williams, Western Australia"
+45.7423753,23.3034339,-WnQnXPixKNB9CYQSmIF8A,RO,2023,10,4,Romania,DJ705F,DJ705F / Hunedoara
+-5.5644407,-38.0068548,dJPgPHWtSUvU0EP76fl1FQ,BR,2026,7,4,Brazil NE interior,CE-358,CE-358 / Ceará
+39.8010738,-8.3975188,Ho2YPXdPPlM3crsosAlIBw,PT,2025,6,4,Portugal interior,,"Alvaiázere, Leiria District"
+-28.999548,-51.3552562,4e4toMEhd9kzlpCeFs9a8g,BR,2025,8,4,Brazil South,,Rio Grande do Sul
+4.0613966,102.3273944,x7Y2AkEw0yuGAPQpkwtgRw,MY,2014,2,3,Indonesia Sumatra,,"Jerantut, Pahang"
+-4.7055561,-45.7914985,EwTIt2AKmTRAhEM50CuXyw,BR,2026,7,4,Brazil NE interior,MA-008,MA-008 / Maranhão
+-35.6792365,-64.0626546,lbEBzzhQe13hZkaaIm0Uxw,AR,2025,6,4,Argentina Pampas,RP4,73 RP4 / La Pampa Province
+57.6612992,58.9668087,0pBiaSBm93jUm6k0dVzhLA,RU,2014,9,3,Russia Volga/Ural,,"Kharenki, Sverdlovsk Oblast"
+12.491927,125.0227572,EBWFeU10mWNDqSla4I0Z6w,PH,2021,10,4,Philippines Visayas,,"Laoang, Eastern Visayas"
+17.1212407,121.2874039,Uhml4ciPdA4G_ldv1BHMzg,PH,2024,2,4,Philippines Luzon,Talubin - Barlig - Paracelis Rd,"Talubin - Barlig - Paracelis Rd / Natonin, Cordillera Administrative Region"
+31.404276,-100.9043012,vAj9hCS7KswhDiCsMh4FQw,US,2025,12,4,Mexico North,Co Rd 411,"Co Rd 411 / San Angelo, Texas"
+41.7339331,-7.2988686,oRtz2Wym-N_TIJgC_GiCtg,PT,2026,6,4,Portugal interior,EM543,EM543 / Vila Real District
+64.2276278,16.3002887,44I1rgcrPpOrg6ZCsu8hAA,SE,2026,7,4,Sweden,E45,E45 / Västerbotten County
+-44.8210322,-70.7135843,39GmG3Fl-eXFynWvX6M-Vw,AR,2026,6,4,Argentina Patagonia,RP20,RP20 / Chubut Province
+46.9638223,-118.8029273,OWhYYDbs6aUbf5lbYC8FrQ,US,2026,8,4,US PNW interior,,"Ritzville, Washington"
+4.8694433,100.8889458,AV3AnyKdaGl5qD62SIBYVw,MY,2024,3,4,Malaysia Peninsula,Jalan Kampung Tiong,Jalan Kampung Tiong / Perak
+46.0028246,38.9806042,tvWoW20XXsTguxesBUbeZQ,RU,2019,9,3,Russia S steppe,Р268,Р268 / Krasnodar Krai
+54.3157559,60.7800613,G1Jn3BT-2KnI2hTfaUrrQA,RU,2013,8,3,Kazakhstan N,,"Plast, Chelyabinsk Oblast"
+-5.9873328,-41.3849284,ObaN1ljv-bXKTVTqSJ3YYQ,BR,2024,8,4,Brazil NE interior,PI-120,PI-120 / State of Piauí
+40.5203746,22.6413171,zJJ43VMR9Iae5H-EUxBsIA,GR,2023,6,4,Albania/N.Macedonia,,Decentralized Administration of Macedonia and Thrace
+-35.0698803,147.9638007,xlbIOGSIJ8QZK7Lol0HTEw,AU,2024,11,4,Australia NSW/VIC,Nangus Rd,"Nangus Rd / Nangus, New South Wales"
+52.8095195,22.7212386,mlpNfG2rFgnuRw-OZiWt1w,PL,2024,8,4,Poland,,Podlaskie Voivodeship
+-29.2691674,116.0586249,QtOgCnhwn8eh2sDHZNklMw,AU,2025,11,4,Australia WA,Wubin-Mullewa Rd,"Wubin-Mullewa Rd / Koolanooka, Western Australia"
+58.861947,49.427637,Dk4oKcLuFWlTokcOZOj4aA,RU,2013,6,3,Russia European N,Р176,Р176 / Kirov Oblast
+65.5241562,12.2746809,7JYrSLQWMfStV62WUcqVXQ,NO,2019,8,4,Norway,,"Tilrem, Nordland"
+52.6492791,70.5070931,a9xcLC_dyEJur2TWv5BIOA,KZ,2022,9,4,Russia W Siberia,A1,"A1 / Makinsk, Akmola Region"
+48.437353,41.9943054,jV6KstQIm0Oh5qROMoccng,RU,2021,3,4,Russia S steppe,,Rostov Oblast
+48.6793736,14.0449883,UUbJO2JF4bUO9lxpLkzhPw,CZ,2012,3,3,Austria/Switzerland,1638,"1638 / Černá v Pošumaví, South Bohemian Region"
+-42.4020819,-67.7369956,bFx15u1iXjDL9dnfOyJhLA,AR,2026,3,4,Argentina Patagonia,RP4,RP4 / Chubut Province
+52.4622474,-102.5021023,6mz9AdwyATjciwfN-kyZIQ,CA,2025,8,4,Canada Prairies,McBride Lake Rd,"McBride Lake Rd / Endeavour, Saskatchewan"
+43.7700121,134.795138,9YqABoW_EcSRuggjYT395w,RU,2013,7,3,Russia Far East,Lazo - Ol'ga,"Lazo - Ol'ga / Moldavanovka, Primorsky Krai"
+62.2021407,29.1195108,toEXRNw-2E9CfB2Lyiog6w,FI,2026,7,4,Finland,4741,"639 4741 / Savonlinna, South Savo"
+20.1292481,-89.0383319,QEla01gWz70AH5VsHFIGPA,MX,2013,9,3,Mexico Yucatan,,Yucatan
+59.2087784,14.4588878,0YT9f3tM9DDO-pcsTcS2YQ,SE,2025,6,4,Sweden,205,205 / Örebro County
+7.6358575,125.6957805,IjyMi4oUYcbj7yEECK1REw,PH,2026,6,4,Philippines Mindanao,,"Asuncion (Saug), Davao Region"
+16.8144277,121.1447063,HiVIhjyG8GZSMnzVzDeVqA,PH,2021,4,4,Philippines Luzon,,"Lagawe, Cordillera Administrative Region"
+54.708855,-118.6648433,IeWQD1nWvUDLMTDb5GDhHg,CA,2026,9,4,Canada BC interior,Imperial N Rd,"Imperial N Rd / Grovedale, Alberta"
+47.6615458,104.938887,fZIci8TWGgCuY4jxqYGqgQ,MN,2024,6,4,Mongolia,,Töv
+47.968975,12.9100317,86xlqhgq2UOgXnoLOr0hCA,AT,2025,6,4,Austria/Switzerland,Jauchsdorfer Str.,39 Jauchsdorfer Str. / Salzburg
+-15.6477767,-49.6940984,2GaYvlKia85VdyZVWvsdug,BR,2026,8,4,Brazil Centre-West,GO-154,175 GO-154 / Goiás
+33.8089934,-87.1725065,MDp3ulkIEr4S_wE3xTCyOQ,US,2024,6,4,US Deep South,Old Kirkpatrick Rd,"487 Old Kirkpatrick Rd / Jasper, Alabama"
+-35.2314477,-71.7324929,AHJeSl7wi3oVz2GFcrrcnw,CL,2026,3,4,Chile,K-420,K-420 / Maule
+53.0532921,-3.906375,h-INwLl_yiin8cxite8FPQ,GB,2011,6,3,Scotland/Wales,,Wales
+48.6544621,43.8872939,D3VEYcuIul3AN8l8ZeF4Bw,RU,2013,9,3,Russia S steppe,А153,А153 / Volgograd Oblast
+44.0872411,23.3787006,47udCIGebWqEuUYDCl_GMg,RO,2023,4,4,Romania,DJ561D,DJ561D / Dolj County
+-4.9943064,-40.1448223,Ntthkq5qFVDWu_zVSCCkog,BR,2026,7,4,Brazil NE interior,CE-266,CE-266 / Ceará
+46.1721524,99.2296167,mSk-7vyJ947fxncwL2BE8g,MN,2024,6,4,Mongolia,Bayankhongor - Bumbugur Rd,Bayankhongor - Bumbugur Rd / Bayankhongor
+20.2887136,-103.3027409,-49Wrxwl_IRKzf6HExf22A,MX,2013,8,3,Mexico Central,Priv. La Cristina,1 Priv. La Cristina / Jalisco
+25.3871766,-101.156607,xN3yOcaiAZS53JSsY3y9Bw,MX,2024,7,4,Mexico North,,Coahuila
+29.6698651,-98.6391311,aCHOwn5o_gAK467vAMsN8g,US,2025,2,4,US Texas interior,Chilton Stage,"7915 Chilton Stage / San Antonio, Texas"
+58.6733146,15.4187252,o-0aYXbhLqDTRnC-kB3--A,SE,2024,8,4,Norway,E 1120,E 1120 / Östergötland County
+54.0116485,60.4323148,VoFfG2xiF-mcfiEwDBukfg,RU,2013,8,3,Kazakhstan N,,"Stepnoe, Chelyabinsk Oblast"
+39.4460547,-113.9974345,vHrSaQVxwNuQflpe2lKLZQ,US,2025,8,4,US Mountain/Desert,TransAmerica Trl,"TransAmerica Trl / Garrison, Utah"
+37.6602198,-98.1813573,YEaTMXwAYOol4OVCfDgyiA,US,2023,12,4,US Plains,NW 10 St,"3678 NW 10 St / Kingman, Kansas"
+40.701893,-97.4829217,J3rrNE8r9n-qp7ejvtXa_w,US,2024,5,4,US Plains,Rd R,"Rd R / Exeter, Nebraska"
+45.818554,96.9801873,JTYT6PN63OwCGZO-rz308g,MN,2024,6,4,Mongolia,Altai - Biger Rd,Altai - Biger Rd / Govi-Altai
+37.22971,-5.4538879,soX_evviel8ZPpTFsJhDFA,ES,2023,9,4,Spain interior,,"Urb. Santa Elo, Andalusia"
+48.6676313,14.9713232,P1gZ1I2sW4UglnyrVdWzrw,AT,2024,10,4,Austria/Switzerland,L71,22 L71 / Lower Austria
+-31.9840435,-58.7591633,OuZcv9p4vpAMksT92iQddQ,AR,2024,3,4,Argentina North,RN130,56 RN130 / Entre Ríos Province
+-16.9106076,-50.5210918,U2LSu8GXYe7cGEs41N12SQ,BR,2026,7,4,Brazil Centre-West,GO-444,GO-444 / Goiás
+38.0179098,-5.8467573,sVQzyNWDLG5AM51M0mNMHw,ES,2025,10,4,Spain interior,A-3300,"A-3300 / Cazalla de la Sierra, Andalusia"
+-19.6461059,135.7374478,M90EQP1YYsch4L56pVyQsQ,AU,2025,10,4,Australia NT,National Highway 66,"National Highway 66 / Tablelands, Northern Territory"
+-22.8562844,-69.800093,CDo11dAYfOT4l8AUa03CaQ,CL,2025,10,4,Chile,,Antofagasta
+-34.462379,-71.3212072,QJwNgVdaei5fPqI0UjP6nQ,CL,2024,4,4,Chile,I-320-H,I-320-H / O'Higgins
+18.3458015,100.6628199,3p9mjrzCTmetfQ2v2F4VkA,TH,2022,9,4,Thailand,,"Bua Yai, Nan"
+52.2261868,14.9718916,kaz4SS6HNrodx0LsFzkmCg,PL,2024,6,4,Poland,,Lubusz Voivodeship
+2.3086445,100.0791119,APwhbnTRMhNY455rIrwLlQ,ID,2025,5,4,Indonesia Sumatra,Jl. Protokol,16 Jl. Protokol / North Sumatra
+58.1738521,14.6159588,YAkRGogl1MwWEOkOtR2xcw,SE,2021,10,4,Sweden,,Östergötland County
+30.8788415,35.4225793,j1v8dnf0vVe0h7lLvMLWLQ,JO,2017,1,3,Jordan,65,"65 / Ne'ot ha-Kikar, Karak Governorate"
+40.5625706,30.7550978,Bgk4BaxClJZYvAd4U3a8aQ,TR,2024,7,4,Turkey,Güvençler Köyü İç Yolu,"Güvençler Köyü İç Yolu / Güvençler, Sakarya"
+-12.3909937,-48.7344363,AlpgeX_34648MGrcRzGfOg,BR,2025,6,4,Brazil North,TO-373,TO-373 / State of Tocantins
+-35.9537277,174.4133758,7_V65U-MIfBEh7Uya2RZRQ,NZ,2025,11,4,New Zealand,Shoemaker Rd,"434 Shoemaker Rd / Waipu, Northland Region"
+7.9648929,123.4922911,Cw8tGkptRkwAvgCWpBbUQw,PH,2024,4,4,Philippines Mindanao,Dipolog - Pagadian Rd,"Dipolog - Pagadian Rd / Aurora, Zamboanga Peninsula"
+57.019983,24.851147,S9zZXnWZ4N0XwEfBJrftLQ,LV,2023,7,4,Baltics,P3,P3 / Sigulda Municipality
+-9.2129284,-77.9600785,aRFmp4ocZE6-yB2V6zUQAw,PE,2026,1,4,Peru,,Ancash
+-41.7956978,146.6785421,4T9aaGDvJZqxuFuPxZxnJA,AU,2026,3,4,Australia Tasmania,A5,"A5 / Doctors Point, Tasmania"
+60.2330984,30.3902836,dniE7sjUQAxrgcNMkaWokw,RU,2021,5,4,Finland,,Leningrad Oblast
+34.3053762,-99.1325848,mvEsGMWVTiOoEVlR9MAlVA,US,2024,10,4,US Texas interior,N2150 Rd,"N2150 Rd / Frederick, Oklahoma"
+48.4068512,25.6435632,3YoVVAxU0N41AedAYI11OQ,UA,2015,5,3,Ukraine,Н10,382 Н10 / Chernivtsi Oblast
+44.5699331,-110.8165003,Q8jhAL1s2TwzUn_iQCjVUA,US,2022,8,4,US Montana/Wyoming,US-20,"US-20 / Yellowstone National Park, Wyoming"
+52.1839755,116.2814561,m07xC8lAIIpjA0MsDd1QZQ,RU,2013,7,3,Russia Transbaikal,Avtodoroga Amur,Avtodoroga Amur / Zabaykalsky Krai
+-30.0675312,-55.2905536,K0eeQ4jBIQ0axpZZMJkjwg,BR,2026,4,4,Uruguay,BR-290,BR-290 / State of Rio Grande do Sul
+43.9990204,1.2515709,cNEH5liaLPSTxDVOwfXKMw,FR,2025,6,4,France rural,D39,"1619 Rte de Lavilledieu / Lacourt-Saint-Pierre, Occitanie"
+60.0367648,15.5019563,e-Q0q_ktPjLCoDyZf9K8Zg,SE,2026,7,4,Sweden,Gärdsbovägen,Gärdsbovägen / Dalarna County
+49.8323001,32.7037698,EpgzMYTVgi8xcfUg1cGZ6g,UA,2015,7,3,Ukraine,Avtoshlyakh T 1713,Avtoshlyakh T 1713 / Poltava Oblast
+-27.6926581,26.9728091,ns-chbNj7O_0qVU9h31buQ,ZA,2026,4,4,South Africa,,Free State
+3.7672202,114.3179893,vTj6KGXiNLyO0EdCTuP6iQ,MY,2025,5,4,Malaysia Borneo,Jalan Long Lama,"Jalan Long Lama / Long Lama, Sarawak"
+-32.0148243,120.7623174,AjrmR0UmeA2bxRPhxcPymQ,AU,2022,12,4,Australia WA,Hyden Norseman Rd,"Hyden Norseman Rd / Norseman, Western Australia"
+41.9666888,22.4022757,HhJKpzXhjvoTU8Ti__EZEg,MK,2025,11,4,Albania/N.Macedonia,,Kočani Municipality
+54.6170669,90.7715315,7dD-oWSkB5koTred9oF51A,RU,2018,7,3,Russia C Siberia,Р-257,"Р-257 / Pervomaiskoe, Republic of Khakassia"
+-10.659567,-77.6358582,XP9pcJDrtotOWaMIoZuqpg,PE,2025,5,4,Peru,LM-106,LM-106 / Lima Region
+51.1126156,75.8234479,SG8xaE8ZLuSyR1z8ece7xw,KZ,2022,9,4,Russia W Siberia,P27,P27 / Pavlodar Region
+-27.9382264,-54.5634462,ik1LJHpJ3wXl1l6li2Nc6g,BR,2023,11,4,Brazil South,Linha Federação,Linha Federação / State of Rio Grande do Sul
+56.9330404,66.5705166,y2prhSFGvwCo4XYGWAM3LQ,RU,2018,7,3,Russia W Siberia,Yalutorovsk - Yarkovo,Yalutorovsk - Yarkovo / Tyumen Oblast
+-11.0237011,-68.5625714,_eb6t8btFiZOJQVNGzPI1Q,BR,2026,7,4,Bolivia,AC-498,AC-498 / Acre
+38.7839862,-101.3720205,_kwflkBbf2J1E6JayK08hA,US,2024,7,4,US Plains,Co Rd 160,"Co Rd 160 / Leoti, Kansas"
+34.3088311,-89.728715,b3WVEa8R0C4oCjk-Cts6bQ,US,2025,11,4,US Deep South,Shady Grove Rd,"2969 Shady Grove Rd / Batesville, Mississippi"
+12.9136768,76.2723372,eqoAxwFbwtMNblNVjHrvrQ,IN,2024,5,3,India,,"B.Hosahalli, Karnataka"
+45.7966203,22.7572908,vAYutXWSfZ0CbK3TIf0h2g,RO,2021,4,4,Romania,DJ687J,DJ687J / Hunedoara
+22.1307266,69.7880754,tTis7lkCBkmaJjykiRHfLw,IN,2024,7,3,India,,"Bajana, Gujarat"
+5.3299919,101.1422809,YL4lXOkr8iHpsoaiwcDM1Q,MY,2025,5,4,Malaysia Peninsula,A168,"18 A168 / Gerik, Perak"
+52.5384383,-3.195414,pu0G44HdXKWPftkxY2lnfw,GB,2024,5,4,Scotland/Wales,,Wales
+43.3261252,26.1780801,l1IqJB4ewh-NcFCDga-9Hw,BG,2024,5,4,Bulgaria,ул. „Въстаническа“,"ул. „Въстаническа“ / Медовина, Targovishte Province"
+-30.5649144,23.3241079,o9bjAs1Li9hvG0HQJkruIQ,ZA,2026,9,4,South Africa,R384,"R384 / Griesenkraal, Northern Cape"
+54.7472196,21.2597172,kE1ttsrLMVrQF6CwtwXw0w,RU,2012,9,3,Baltics,,Kaliningrad Oblast
+-2.8765442,111.6742791,KwgAQQvDNeWi3VgjpaWYUA,ID,2024,7,4,Indonesia Kalimantan,,Central Kalimantan
+-27.7965303,-53.5993574,UPvdawgILb4SuDODkiNzMQ,BR,2025,8,4,Brazil South,,State of Rio Grande do Sul
+3.0704959,-75.195183,mDLFFHORonMxJExjI9kxZA,CO,2025,6,4,Colombia,Neiva-Tello,Neiva-Tello / Huila
+15.55198,120.423208,wOOSd1sLPlKo8Q7juW0OWw,PH,2025,9,4,Philippines Luzon,,"Santa Ignacia, Central Luzon"
+38.7908166,40.4595015,EViIV2N7KuNxxIvMfhMaaA,TR,2025,5,4,Turkey,Olukpınar Köyü Yolu,Olukpınar Köyü Yolu / Bingöl
+67.0066288,24.0505525,JWcDlW-kng8cqrVG9A4bqw,FI,2024,10,4,Finland,Kolarintie,246 Kolarintie / Lapland
+-30.0105235,-66.9838366,NI64m1T43d8lg3mHqaAhqA,AR,2024,4,4,Argentina Cuyo,RN74,1097 RN74 / La Rioja Province
+46.6797723,-96.5260065,nYAxA4zrtjWTXwsTD-bONQ,US,2025,8,4,US Plains,130th St S,"14566 130th St S / Barnesville, Minnesota"
+48.8196837,21.9919181,Q-3pXfalYiPjltu2ixL02A,SK,2024,8,4,Czechia/Slovakia,,"Vinné, Košice Region"
+54.3741391,-126.7212817,SDqb7PTACxRjiZJIek6ocg,CA,2025,6,4,Canada BC interior,Morice River Forest Service Rd,"1297 Morice River Forest Service Rd / Houston, British Columbia"
+39.4468431,-8.1330885,-MbBJ2750OJo_bXB_TNB4A,PT,2023,4,4,Portugal interior,,"Pego, Santarém District"
+47.3839739,107.4577663,fR2RJszGlS7hDBarFzRvtg,MN,2025,10,4,Mongolia,AH3,AH3 / Ulaanbaatar
+50.2571369,39.3080412,Opy_ReoOddQU-xW_xcmusQ,RU,2018,9,3,Russia S steppe,Yubileynaya Ulitsa,"Yubileynaya Ulitsa / Ol'khovatka, Voronezh Oblast"
+-23.4188709,133.2120624,La1OqDrKF9Z2sj8EcyZhag,AU,2025,7,4,Australia NT,State Route 5,"State Route 5 / Burt Plain, Northern Territory"
+53.5624134,109.5066592,YC_rFtc7n6Ki2g4SSJswJg,RU,2021,7,4,Russia Transbaikal,Р438,Р438 / Buryatia
+47.7069032,-109.6252711,UZh7zEjUQTatH8x_QeQMXw,US,2025,9,4,US Montana/Wyoming,Pn Bridge Rd,"Pn Bridge Rd / Winifred, Montana"
+45.7766079,-103.5211895,tr-v9DaAqweT1cvguArrkQ,US,2021,10,4,US Plains,Brown-Johnson Rd,"Brown-Johnson Rd / Buffalo, South Dakota"
+-7.6932225,-77.9795928,-KiF4ezH-Evx-u604IkVGA,PE,2025,10,4,Peru,La Libertad 838,13320 La Libertad 838 / La Libertad
+17.9703489,-92.2813285,azqIjbqCgJu9TVD1YmQnEQ,MX,2025,2,4,Mexico South,Carr Cd Pemex-Jonuta,Carr Cd Pemex-Jonuta / Tabasco
+44.542313,1.8598294,kP-MyMKdxZU1vm3gbGBBPg,FR,2025,9,4,France rural,,"Gréalou, Occitanie"
+24.260383,75.5034614,4Gl-5W6qPUSILr1uDShIVw,IN,2023,9,3,India,,"Eri, Madhya Pradesh"
+-44.142683,171.2132883,IjgfnxEK4jgHj3X-vpEk3g,NZ,2025,6,4,New Zealand,Earl Rd,"1151 Earl Rd / Hilton, Canterbury Region"
+-20.4834623,-59.8028948,XFSipFlU-KO-lT5AFrqXBA,PY,2025,2,4,Bolivia,16,"16 / Zona Tte. Martinez, Alto Paraguay Department"
+21.6896419,-100.9362431,tiYG3BvY6vaim4ip8CnRyQ,MX,2025,1,4,Mexico Central,Carrt. Lequeitio,Carrt. Lequeitio / Guanajuato
+54.3556465,-6.4739888,7vk-4UdMsoarsFj8kHyJsQ,GB,2026,4,4,Ireland,Cornascriebe Rd,96 Cornascriebe Rd / Northern Ireland
+31.4690164,-99.3748306,MbuZm12LR6gfOZ3BPxB2XQ,US,2026,2,4,US Texas interior,US-283,"US-283 / Rockwood, Texas"
+51.0897775,27.9473174,g2bfEy8fRcHeBnzM40qyTA,UA,2015,6,3,Ukraine,М07,М07 / Zhytomyr Oblast
+16.7076002,-90.8873964,U1GsXiE2_47Q20dX7vWZ1w,MX,2025,4,4,Mexico South,México 307,"México 307 / Champa, Chiapas"
+44.2313019,79.4795125,4HmdQcykIw0pLE_sCAuyBQ,KZ,2023,3,4,Kazakhstan C/S,A353,A353 / Jetisu Region
+43.6843299,-112.3318525,748KbtqJyNfoczYPi51_pA,US,2025,8,4,US Montana/Wyoming,E 400 N,"1899 E 400 N / Roberts, Idaho"
+6.4636297,100.4950666,7MD2MmgutXMv0UJFCB9YyA,MY,2025,4,4,Malaysia Peninsula,277,"277 / Bukit Kayu Hitam, Kedah"
+-38.3434171,-60.9153707,f6RwcZKZM356XFNapA1BCw,AR,2025,8,4,Argentina Pampas,Cno. provincial 023-07,Cno. provincial 023-07 / Buenos Aires Province
+37.7824169,-97.413859,L6iYbavDhh0kDp1SgFCtOA,US,2023,8,4,US Plains,N Boyd St,"5499 N Boyd St / Wichita, Kansas"
+37.3696278,-98.3217294,0mwxHDQSbjT7NbCx1inOLQ,US,2026,3,4,US Plains,NW 150 Rd,"NW 150 Rd / Zenda, Kansas"
+57.3286178,81.6866717,SI0eb0mVLlv98rS3Lj2Uxg,RU,2021,8,4,Russia W Siberia,Vysokiy Yar,"Vysokiy Yar / Svetlozelenoe, Tomsk Oblast"
+-42.7587951,-63.650906,etthQQH4mih8He9DEP-7GQ,AR,2014,3,3,Argentina Patagonia,RP2,RP2 / Chubut Province
+-11.7124325,-49.8716403,Y-4uM1tkhxyb942nOvKbLQ,BR,2024,12,4,Brazil North,TO-181,TO-181 / State of Tocantins
+-17.9886085,-47.1075735,xfhAp1Jqlu11L7D0gQYgtQ,BR,2025,5,4,Brazil MG/SP interior,Rod. Alírio Herval,Rod. Alírio Herval / State of Minas Gerais
+49.1101397,57.8239889,mzCYlxzlvL5PBX3TAK1p8w,KZ,2023,6,4,Kazakhstan C/S,A-26,A-26 / Aktobe Region
+52.5891383,-108.2345436,SnM6L5KQDWzSHfLw8oJm_Q,CA,2026,5,4,Canada Prairies,SK-4,"SK-4 / Cando, Saskatchewan"
+-12.1616661,-51.603029,3Z1AwNV0nKC0VVwIbAZzfg,BR,2026,8,4,Brazil Centre-West,MT-322,MT-322 / Mato Grosso
+-13.8102704,-59.6425518,w_GyDg-Qb-4sz5XskhiRvQ,BR,2026,4,4,Bolivia,BR-364,BR-364 / Mato Grosso
+41.5856423,-106.8151521,QeswR8QzzIx5aP0jO4ttJQ,US,2025,8,4,US Montana/Wyoming,WY-130,"WY-130 / Saratoga, Wyoming"
+63.8232999,43.6568621,n1nCJFCI-juV5AC1KYPq1Q,RU,2021,6,4,Russia European N,,"Syloga, Arkhangelsk Oblast"
+54.0956964,69.1601154,KpbkrYmG_s3zo41wSflvhg,KZ,2023,8,4,Russia W Siberia,A1,A1 / North Kazakhstan Region
+46.0666165,98.1366708,XCvT8d8wpx3GlYStbKzPnw,MN,2024,6,4,Mongolia,,
+53.8515744,61.970209,1WL0Est6ChtqpmhDGOmGFQ,KZ,2023,7,4,Kazakhstan N,M-36,M-36 / Kostanay Region
+47.4692406,-0.812448,QN0W0LLeBzoZXXVhpve3ug,FR,2024,8,4,France rural,,"Saint-Augustin-des-Bois, Pays de la Loire"
+-35.3546336,144.6829243,DaEFcWz0eS0PcgeUJfpiRw,AU,2024,11,4,Australia NSW/VIC,Eastmans Rd,"Eastmans Rd / Morago, New South Wales"
+-33.5160095,119.4514665,WZj5Kn6LWI3wlem9snk11Q,AU,2023,10,4,Australia WA,Mallee Rd,"Mallee Rd / West River, Western Australia"
+44.2806029,-89.8438423,1xx2AcBME88ft3mhwbozlA,US,2026,7,4,US Upper Midwest,Rangeline Rd,"11737 Rangeline Rd / Nekoosa, Wisconsin"
+54.1446036,81.5479305,QoO4i8fKvNZ8P6jV_EYsRQ,RU,2018,7,3,Russia W Siberia,Р380,Р380 / Novosibirsk Oblast
+30.5774179,-97.1901728,jsDUwR11KNI0Lb2RAX5vTQ,US,2023,3,4,US Texas interior,Co Rd 454,"Co Rd 454 / Thrall, Texas"
+-41.5169255,173.6661366,GEcXUoqkzIGSzjsKReJj5g,NZ,2026,5,4,New Zealand,Northbank Rd,"1320 Northbank Rd / Onamalutu, Marlborough Region"
+-27.286434,-50.0034313,68PvtIxCbFIETl8ggpnWmQ,BR,2026,8,4,Brazil South,,Santa Catarina
+48.419056,15.9089089,4k4lCBnvB0Ytk8sud53ozA,AT,2019,6,4,Czechia/Slovakia,,Lower Austria
+47.7319517,-101.5935758,8p95TEUMkWgmQG90LQAuPw,US,2025,8,4,US Plains,22nd St NW,"4700 22nd St NW / Douglas, North Dakota"
+61.4834361,44.2735992,A4FXiHY_m8dPySDt-kgmIg,RU,2021,8,4,Russia European N,,"Kvazen'ga, Arkhangelsk Oblast"
+-29.3325152,-70.410998,mag1OzyNngoPWPiAYz-c2w,CL,2024,5,4,Chile,,Atacama
+-33.4235696,121.4653443,1iEdNlGgqFfbfcCUmYi4WQ,AU,2025,10,4,Australia WA,Grigg Rd,"Grigg Rd / Scaddan, Western Australia"
+52.1087687,38.8500398,gbkRmv6ivUbFLxIcXumKHw,RU,2018,8,3,Russia European W,42К-687,42К-687 / Lipetsk Oblast
+40.4630451,17.6815212,qUbYfPKsvz8evclEqvnRZg,IT,2019,5,3,Italy S/islands,,Apulia
+37.745763,14.8712957,BjB41oJzqMNFq5hdJq4VmA,IT,2024,9,4,Italy S/islands,,Sicily
+44.7024406,65.8933023,X8x2O5BDRPwTCzylNiAT-A,KZ,2023,6,4,Kazakhstan C/S,M32,M32 / Kyzylorda Region
+51.4492112,56.5021872,3QTjXHHszCH-QXTucEvsCQ,RU,2018,9,3,Russia Volga/Ural,Р336,"Р336 / Alabaital, Orenburg Oblast"
+47.5536213,109.3547518,OC2S4LEiUrbcmRauuKnyCQ,MN,2025,8,4,Mongolia,Eastern Hwy,Eastern Hwy / Khentii
+39.5745487,-108.1095929,O-6Ou-C2Kn77coyigcC-gA,US,2025,9,4,US Mountain/Desert,Co Rd 215,"Co Rd 215 / Parachute, Colorado"
+-32.0510657,-62.9046152,qBM6gj00AKzsNbALtqiu2g,AR,2026,3,4,Argentina North,RP E52,RP E52 / Córdoba Province
+57.1547045,101.6154345,-uphp9r-2dDNHI52iaAX0A,RU,2013,7,3,Russia C Siberia,,"Pod""Yelanka, Irkutsk Oblast"
+7.7911319,-73.4051246,hxPoMBF2P0-I9wrNYyckfg,CO,2022,2,4,Colombia,Ruta del Sol Sector 2,Ruta del Sol Sector 2 / Cesar
+51.6687378,102.2852193,BCpRJr_qKCjr-5nndGjJYA,RU,2021,7,4,Russia C Siberia,А-333,"А-333 / Kharbyaty, Buryatia"
+49.4470718,-106.9537481,dNzDNt0wPDiOSGMW9KDk2A,CA,2026,7,4,Canada Prairies,Railway Ave,"Railway Ave / Ferland, Saskatchewan"
+1.1493907,124.5135648,HxmB-DA-svnZ7P9OzS8T3g,ID,2025,6,4,Indonesia Sulawesi,Jl. Amurang - Kotamobagu,Jl. Amurang - Kotamobagu / North Sulawesi
+50.7388291,79.6536693,BSlzejmX7tgLGubXQPjRCA,KZ,2022,9,4,Kazakhstan N,M-38,M-38 / Abai Region
+56.1714292,93.1642601,l4KhOocHnleW3Krf632Xiw,RU,2021,5,4,Russia C Siberia,,Krasnoyarsk Krai
+52.6208889,93.4585579,QmCJ8FadT2yy1lxpt2_6_A,RU,2013,6,3,Russia C Siberia,Р-257,"Р-257 / Aradan, Krasnoyarsk Krai"
+47.164083,-91.574841,zVPKVWuyGNE21McXtdSMIA,US,2025,6,4,US Upper Midwest,Co Hwy 3,"Co Hwy 3 / Two Harbors, Minnesota"
+65.6930564,15.1106454,Y8_2fkkGofl8ssQ8GQVsRw,SE,2025,9,4,Sweden,Ängesdal,Ängesdal / Västerbotten County
+13.870238,122.1036375,NWWLGvWAKmvRqFJKdQYMYw,PH,2025,5,4,Philippines Luzon,Gumaca - Pitogo - Mulanay - San Narciso Rd,"Gumaca - Pitogo - Mulanay - San Narciso Rd / Gumaca, Calabarzon"
+38.7049798,-6.9382025,dvsArvW_axIFd44sGjAXjQ,ES,2025,8,4,Portugal interior,BA-006,"BA-006 / Valverde de Leganés, Extremadura"
+-39.3343458,-68.0915577,ERGU92PrkN6dgaQWV6sYCA,AR,2024,5,4,Chile,RP68,RP68 / Río Negro Province
+-14.0991126,-75.4820548,HHHm6cIqva0_9Y0g2gvs9A,PE,2024,11,4,Peru,IC-106,IC-106 / Ica
+-16.290687,-55.7051651,QowdNXPzGBsVEC4ZupxcnA,BR,2023,12,4,Brazil Centre-West,MT-040,MT-040 / State of Mato Grosso
+8.4816377,123.029302,8TrDwquggx9QewYyWi_t5A,PH,2025,8,4,Philippines Mindanao,Ipil-Dipolog Hwy,"Ipil-Dipolog Hwy / Jose Dalman (Ponot), Zamboanga Peninsula"
+53.5788401,-9.5645934,9uIPTPdlDxISklZV7kBvGQ,IE,2025,8,4,Ireland,L1601,L1601 / County Galway
+65.4535279,13.4165424,0zJhHIOA6nmecgaEfafi-Q,NO,2026,5,4,Sweden,E6,8 E6 / Nordland
+47.4461581,101.8046803,UZUs7KBi1c0Mk4G5TxZdmQ,MN,2024,7,4,Mongolia,,Arkhangai
+50.4202314,-105.2598479,rk0ct6McGIlaJhfVslqq1g,CA,2025,6,4,Canada Prairies,Range Rd 2244,"Range Rd 2244 / Pasqua, Saskatchewan"
+-5.8925236,-62.4026948,ZTgdFNP5892usoDJ6mpTGg,BR,2024,5,4,Brazil North,BR-319,BR-319 / State of Amazonas
+-35.7849268,140.7954265,oBG5RmHQIzppOB5Vzurp0Q,AU,2026,5,4,Australia SA,Ngarkat Hwy,"Ngarkat Hwy / Ngarkat, South Australia"
+43.6481694,-0.2706211,G4vGqQrrpjY2857UKt697A,FR,2026,5,4,France rural,,"Aire-sur-l'Adour, Nouvelle-Aquitaine"
+39.4126669,-7.651983,Wvdt58aROUo13RHb_T5Y7A,PT,2024,11,4,Portugal interior,E802,"E802 / Gáfete, Portalegre District"
+-12.6141087,-72.343708,AIPElOqx6DMJuNCuwi6J5Q,PE,2025,6,4,Peru,,"Chancamayo, Cusco"
+2.0247636,112.274799,rHl9wnrLs2PY04GKkOzoog,MY,2024,8,4,Indonesia Kalimantan,Jalan Kanowit - Song,"Jalan Kanowit - Song / Kanowit, Sarawak"
+30.0970546,35.4365245,qMmFhJf5J2OC1drJw7ukiw,JO,2017,2,3,Jordan,Kings Hwy.,"Kings Hwy. / Tassan, Ma'an Governorate"
+65.8644011,29.9692135,maroeziq6y9nGP_Ex4OKkA,FI,2025,4,4,Finland,,"Kuusamo, North Ostrobothnia"
+-30.0785231,-68.6932391,U1CdYyM6Mkzqi2KPuyU_Lg,AR,2014,3,3,Argentina Cuyo,RP456,RP456 / San Juan Province
+49.4749878,32.6329724,4-rwuzmW--2tczcr4EXpxg,UA,2015,6,3,Ukraine,H08,H08 / Cherkasy Oblast
+38.4882422,-110.2212572,yNbLwEy5DC54jbxubiK5lQ,US,2025,8,4,US Mountain/Desert,Lower San Rafael Rd,Lower San Rafael Rd / Utah
+50.2308706,32.0327839,R3LL5ulQgEoqtqkmCDeMOQ,UA,2015,6,3,Ukraine,Е40,Е40 / Kyiv Oblast
+9.7741192,-73.2724628,llT9S2n0_DRQwJpN_-YZUw,CO,2021,12,4,Colombia,49,49 / Cesar
+58.7882453,31.4532968,nEXMUFBHQC11UN-7cV2Aqw,RU,2019,5,3,Russia European W,М-10,"М-10 / Myasnoi Bor, Novgorod Oblast"
+38.7594488,-98.966588,fWisNmeuCSEgT3adzRQJMA,US,2024,6,4,US Plains,Balta Galatia Rd,"3435 179th St / Russell, Kansas"
+64.6235243,-147.0673981,1FzR_9pd66OTizpQ7FFbYw,US,2026,8,4,US Alaska,AK-2,"5871 AK-2 / Salcha, Alaska"
+-34.4809816,-56.4363728,iDDmhh1pcq19QsXU1otYWA,UY,2015,10,3,Uruguay,,San José Department
+-34.748838,-58.7560102,04D7NJVl_IPPf8KXRGoEfQ,AR,2023,10,4,Argentina Pampas,Av. Patricios,"Achupallas / Mariano Acosta, Buenos Aires Province"
+31.7406625,35.9419055,oXWroAvSzqGINUVqX9KCmw,JO,2017,1,3,Jordan,45M,"904 45M / Amman, Amman Governorate"
+48.0376414,97.1272557,geATy2HVK2kxNU15fliBPQ,MN,2024,7,4,Mongolia,,Zavkhan
+17.2765096,99.0539074,wfUaPoKPwhg4cqTNydcl_A,TH,2024,6,4,Thailand,ตก.4011,"ตก.4011 / Yok Krabat, Tak"
+54.1435103,24.4359532,wTxVIhW-IVCpEHazDhJXCw,LT,2023,6,4,Baltics,5019,"5019 / Mančiagirė, Alytus County"
+51.1747798,-122.0610426,ccaienPuf6m4FnWoIaJo4g,CA,2025,6,4,Canada BC interior,High Bar Rd,High Bar Rd / British Columbia
+7.8380756,123.7879969,jlyQMZVbiuykTXEhLm7kuQ,PH,2021,3,4,Philippines Mindanao,,"Kapatagan, Northern Mindanao"
+47.2021274,-0.3959954,XtyQZbFCWe0ZtX9MYTrFjw,FR,2024,7,4,France rural,D84,"D84 / Doué-la-Fontaine, Pays de la Loire"
+-32.0643587,-68.5898038,vShUf74n96cMt4JnBhFyAw,AR,2025,10,4,Argentina Cuyo,,San Juan Province
+45.9366013,40.348148,Edt5vnWGCwkah-hoFpoUaw,RU,2013,9,3,Russia S steppe,Naberezhnaya Ulitsa,"Pod""Yezd K Novoromanovskaya / Novoromanovskaya, Krasnodar Krai"
+43.8209043,131.8013943,mmWpc8zn02ZQ6vAuHp1AYA,RU,2013,7,3,Russia Far East,Sovetskaya Ulitsa,"А186 / Borisovka, Primorsky Krai"
+47.6599812,-72.3482171,mS6qM05HMAXUSIVclCujvw,CA,2024,7,4,Canada ON/QC,Chem. du Lac Édouard,"1364 Chem. du Lac Édouard / La Tuque, Quebec"
+-44.8451568,-69.2486195,iodi6x6eabq3Mft3El5Xpg,AR,2024,10,4,Chile,RP24,RP24 / Chubut Province
+48.341762,-102.9495876,JsRgl0HluHQAkvDlTZLUDw,US,2025,9,4,US Plains,64th St NW,"64th St NW / Tioga, North Dakota"
+45.7464698,17.5062229,gFkWF6X1iG4AFTWW6pgmtQ,HR,2025,5,4,Serbia/Bosnia/Croatia,Pepelana,"9 Pepelana / Pepelana, Virovitica-Podravina County"
+-8.1096775,115.3167975,aiJEuzSmBbgVF16cwbA9fA,ID,2025,5,4,Indonesia Nusa Tenggara,Jl. Arcana,Jl. Arcana / Bali
+-32.1264973,117.3818934,gK32_Nr7aNR2qP4SgK9-gw,AU,2025,2,4,Australia WA,Dangin-Mears Rd,"Dangin-Mears Rd / South Quairading, Western Australia"
+54.3073916,90.6834436,0Ij14PP7K6SxR-ygV46hOA,RU,2018,7,3,Russia C Siberia,Znamenka,Znamenka / Republic of Khakassia
+60.0341656,41.101463,MLMHwL8xc-dC-eXQSdaC4A,RU,2013,7,3,Russia European N,Avtodoroga Kholmogory,"33 Avtodoroga Kholmogory / Syamzha, Vologda Oblast"
+66.6708378,23.8950761,GH9m0BG7IhGVRojtbgjsJg,FI,2024,10,4,Finland,21,Petäjäojan silta / Lapland
+49.4832593,-68.5345592,LjQKQly4FxsH3LzedN4qAA,CA,2024,8,4,Canada ON/QC,QC-389,52 QC-389 / Quebec
+49.533098,57.3951044,Ura3d4QvYeyugI3QEzHSng,KZ,2023,6,4,Kazakhstan C/S,A-27,A-27 / Aktobe Region
+60.0635987,17.0006329,_zGzctxiev-PYPiUHIxztw,SE,2026,6,4,Norway,Huddunge kyrkväg,Huddunge kyrkväg / Uppsala County
+48.7299696,-118.0129796,gw-pUY4uvsageqy0XFaUaA,US,2021,9,4,US PNW interior,Evans Cutoff Rd,"1601 Evans Cutoff Rd / Evans, Washington"
+-6.632236,-38.6776574,_OoRhN5te1bbdZdUiXLINg,BR,2026,6,4,Brazil NE interior,CE-284,237 CE-284 / Ceará
+43.7597072,77.027198,vDy8B3IbcNebySfDVcpl8g,KZ,2023,3,4,Kazakhstan C/S,Almaty - Kapshagay Hwy,Almaty - Kapshagay Hwy / Almaty Region
+43.5389413,54.1020616,iUJ4cMDM0bN18HEGdZvGaA,KZ,2023,7,4,Kazakhstan C/S,Бекет Атаға апаратын жол,Бекет Атаға апаратын жол / Mangystau Region
+-38.0833369,-61.1289307,GYIYkTIOTPjkMx23PHOH9A,AR,2024,12,4,Argentina Pampas,RP85,RP85 / Buenos Aires Province
+56.2249969,92.0774557,Hp0HHHA4M3RSWbtFWmKFXQ,RU,2018,7,3,Russia C Siberia,Р-255,"Р-255 / Malaya Kemchug, Krasnoyarsk Krai"
+51.4735945,104.3708737,oyyyl9tnhkEWM5zidCpsKw,RU,2021,7,4,Russia C Siberia,Avtodoroga Baykal,"Avtodoroga Baykal / Murino, Irkutsk Oblast"
+-33.2742186,-60.7027601,wublVxShq1fMxoX_wq8-Vg,AR,2026,7,4,Argentina Pampas,,Santa Fe Province
+52.1834594,-121.7114027,rIXvNt3xJYWWx5D5r_parw,CA,2021,5,4,Canada BC interior,Spokin Lake Rd,"Spokin Lake Rd / Horsefly, British Columbia"
+43.5772612,131.856704,j_6sOaqnm6VQWaOwS0ZpcA,RU,2013,7,3,Russia Far East,Ussuriysk - Razdol'noye,Ussuriysk - Razdol'noye / Primorsky Krai
+-27.5200944,-60.2543825,6TXhYfZQbr8DrZ1gSn_mqw,AR,2025,5,4,Argentina North,RN89,RN89 / Chaco Province
+64.611651,14.8696929,S9gGRJl6LKHIHgCRnGM1sQ,SE,2026,7,4,Sweden,,Jamtland County
+-36.4957078,149.0722281,0omRvi3c4UfVrxoS5h_sZQ,AU,2023,7,4,Australia NSW/VIC,Bobundara Ln,"Bobundara Ln / Springfield, New South Wales"
+22.5742701,74.1265627,M83-1SewghN6rzBlkuzSpg,IN,2023,3,3,India,,"Kanjeta, Gujarat"
+-32.5404594,-63.4805515,YmNCehqy7xlx8adVVZKFIA,AR,2025,3,4,Argentina North,Cordoba,Cordoba / Córdoba Province
+30.1809006,-96.6488252,hmEdTToeU1brXE4vrqRM_Q,US,2026,7,4,US Texas interior,Nixon Lake Rd,"2782 Nixon Lake Rd / Burton, Texas"
+22.2120263,59.2018819,zvy1zVn1w4QN20NuCQCq_A,OM,2024,10,4,Oman/Saudi,35,"Al Kamil Wal Wafi, Ash Sharqiyah South Governorate"
+54.4768804,36.1388716,TI5JSjo1IV_5w95VxEGbhw,RU,2019,6,3,Russia European W,Yuzhnyy Obkhod Kalugi,Yuzhnyy Obkhod Kalugi / Kaluga Oblast
+-28.1378682,117.7319978,kJ0vvwYR1E0aNxU3RtXMQg,AU,2024,7,4,Australia WA,Geraldton Mount Magnet Rd,"Geraldton Mount Magnet Rd / Daggar Hills, Western Australia"
+-20.7328615,-49.7216736,kRHaO5zkh2vg8qcqDb2VJA,BR,2026,8,4,Brazil Centre-West,Estr. Vicinal Mazoto Ângelo Pívaro,Estr. Vicinal Mazoto Ângelo Pívaro / São Paulo
+34.2766785,-82.2385841,HQ3PzddW9MHbazGpBPzJ6A,US,2024,8,4,US Deep South,State Rd S-24-282,"2304 State Rd S-24-282 / Hodges, South Carolina"
+14.2405515,102.9497477,5YY4flyf5gVboYhRYrNEIg,TH,2015,1,3,Thailand,,"Nong Waeng, Buri Ram"
+50.6540809,137.1043775,fMcDn7fxME_CJCz2whPfPw,RU,2013,6,3,Russia Far East,Komsomol'sk-Na-Amure,"Komsomol'sk-Na-Amure / Komsomolsk-on-Amur, Khabarovsk Krai"
+59.4825275,49.5356604,qEsxDZWyg_RV42MVER3Yog,RU,2021,7,4,Russia European N,,Komi Republic
+11.8108697,125.4066334,VVTpIijaE0hooLJeGENy3g,PH,2017,1,3,Philippines Visayas,,"Sulat, Eastern Visayas"
+-21.6237186,-54.9807687,OWlkG7iXsdOdQYI-srMmrA,BR,2026,3,4,Brazil Centre-West,BR-267,BR-267 / State of Mato Grosso do Sul
+46.4572665,13.2050114,GxiFTtjSSTOsZ84xjr8L5Q,IT,2011,6,3,Austria/Switzerland,,Friuli-Venezia Giulia
+46.3316156,-63.814071,PfnCXwtI6ZlOExwNWjOtsA,CA,2024,9,4,Canada Maritimes,PE-119,"252 PE-119 / Bedeque, Prince Edward Island"
+54.4556871,61.4578531,Lodz3h-y4J9Tl_93t40N6w,RU,2013,8,3,Kazakhstan N,,"Vyalkovo, Chelyabinsk Oblast"
+64.0503683,-22.6102455,tB2BsjHlLA_zWIf9nAVbuw,IS,2024,7,4,Iceland,45,45 / Suðurnesjabær
+-28.7106896,-70.639406,Pqodkc7_1o8mdXHk9B_2Ow,CL,2024,4,4,Chile,C-561,"C-561 / La Laja, Atacama"
+40.5195852,31.6466244,2s5SdDZ9RZPyy1w3xue7BA,TR,2023,4,4,Turkey,,Bolu
+-21.0798801,141.4288234,lIp_vXliMZDhB0pwpKpX-A,AU,2026,6,4,Australia QLD interior,McKinlay Gilliat Rd,"McKinlay Gilliat Rd / McKinlay, Queensland"
+50.7440384,21.0107656,RVWhI8cfmUeWvQ2r4Md1mQ,PL,2024,5,4,Poland,,"Czyżów, Świętokrzyskie Voivodeship"
+45.5401757,-84.1297542,OpKQfqKm3PSSXWotrQUk9g,US,2024,7,4,US Upper Midwest,Huron Shores Heritage Rte,"19250 Huron Shores Heritage Rte / Millersburg, Michigan"
+60.5825185,50.8836783,Bvvsa5cMXA0HYnVNyccRXA,RU,2021,7,4,Russia European N,,"Griva, Komi Republic"
+54.7977955,57.8811577,zkIpiJPRcQyP4mDgd5smAA,RU,2013,9,3,Russia Volga/Ural,,"Karaulovka, Chelyabinsk Oblast"
+-0.8630998,101.1234407,g38OHLjltKwPes4PlgRLkA,ID,2015,12,3,Indonesia Sumatra,,West Sumatra
+45.3820273,133.5603745,i9X6I1RVjynHc7NU1RI0cA,RU,2013,6,3,Russia Far East,Avtodoroga Ussuri,"Avtodoroga Ussuri / Kurskoe, Primorsky Krai"
+46.4095161,-0.9758735,GsiCPs_zX8W87k0aZ5lW2A,FR,2024,10,4,France rural,D30,"D30 / Le Langon, Pays de la Loire"
+31.3643136,-101.9414651,Vc4ZE4iUYJ7bFsHAp8wpxA,US,2024,4,4,Mexico North,TX-349,"TX-349 / Midkiff, Texas"
+-3.7710343,-49.5920379,qf6vdlt-U_RsBmKFqU6BcA,BR,2022,9,4,Brazil North,Av. Galetti,Av. Galetti / State of Pará
+38.9461043,22.0777483,W7K2NFDrx-eVPO5D8SbVAg,GR,2026,8,4,Greece,Epar.Od. Makrakomis - Rentinas,Epar.Od. Makrakomis - Rentinas / Decentralized Administration of Thessaly and Central Greece
+-25.8622371,-54.9404606,yU-SyYEP6xSGqef_DlFPtA,PY,2025,1,4,Brazil South,,Alto Paraná Department
+55.3231115,72.7390682,PaHqpswfCnJSIVeLt2hkAQ,RU,2021,7,4,Russia W Siberia,,"Kazanka, Omsk Oblast"
+49.1553501,-109.2785573,5W_th_8tr7sy6AYSA7pBaw,CA,2025,7,4,Canada Prairies,SK-18,"SK-18 / Vidora, Saskatchewan"
+52.8717517,106.0211132,PaK_wSE2z7_Gn3quMwgdLQ,RU,2013,7,3,Russia Transbaikal,Bayanday,"Bayanday / Kosaya Step', Irkutsk Oblast"
+36.0803836,-111.1861339,N5kZajkaJfYbaWKUu_Ihtw,US,2024,10,4,US Mountain/Desert,AZ-264,"AZ-264 / Tuba City, Arizona"
+56.5033438,55.4323355,upxPAGIN4YMbG7S5Ffb4UA,RU,2018,7,3,Russia Volga/Ural,,Perm Krai
+65.8833036,-18.2668624,mGe0cyS5g2q-wZ86uIGG2A,IS,2024,7,4,Iceland,Ólafsfjarðarvegur,Ólafsfjarðarvegur
+35.2753022,-78.6722452,OpksOH5kxJRv0GhdskstUA,US,2024,2,4,US Appalachia,NC-82,"2628 NC-82 / Dunn, North Carolina"
+45.9911087,-101.5663202,EO625FypQTx99KLN986Pwg,US,2024,9,4,US Plains,Creek 4321,"Creek 4321 / Watauga, South Dakota"
+67.9543837,28.4265423,wOs7wgne-B1Tgiys1HBWIw,FI,2025,5,4,Finland,,Lapland
+-34.0324864,20.4999059,6TZFiIu6AfszKDUkGVgMmg,ZA,2026,2,4,South Africa,N2,N2 / Western Cape
+58.8944854,50.8938687,HSTIi2gSrXW8pkawv4N54Q,RU,2021,7,4,Russia Volga/Ural,P243,P243 / Kirov Oblast
+37.9179603,-8.3570182,_W219yfcWpqBtD_vRx9_7Q,PT,2024,11,4,Portugal interior,IC1,"IC1 / Alvalade, Setubal"
+5.6426515,116.3345993,rNIxBWYHIS9p4BdPLjGaZQ,MY,2015,1,3,Malaysia Borneo,Jalan Kiawayan,"Tambunan, Sabah"
+57.6853122,56.4172238,EMhmDJs8eMBVhW1Tcazy4A,RU,2021,8,4,Russia Volga/Ural,Р242,"Р242 / Kukushtan, Perm Krai"
+48.0125453,-68.7190944,2OXqAXMngrvgxk7DKeBRog,CA,2026,7,4,Canada ON/QC,QC-296,"112 QC-296 / Lac-des-Aigles, Quebec"
+58.1816561,-5.0472783,i_lCQefetr8gcS_qVmpOCg,GB,2025,9,4,Scotland/Wales,A837,A837 / Scotland
+-20.8196048,-42.277134,Jh59PnwlD6InzT0AHhPnEQ,BR,2023,7,4,Brazil MG/SP interior,,State of Minas Gerais
+18.1390758,99.6636077,SxlGt4EC866eH4VdyGfXYQ,TH,2024,1,4,Thailand,,"Hua Suea, Lampang"
+-15.9842973,-73.5972697,bRGw1FheLfjU_8_P5cLeVQ,PE,2026,3,4,Peru,AR-104,AR-104 / Arequipa
+19.9922697,-100.7937613,mlh--gHpdv5fw-CTdrA4eA,MX,2024,8,4,Mexico Central,Av. Uriangato - Acámbaro,Av. Uriangato - Acámbaro / Guanajuato
+55.9464338,91.9354323,Psy7lhmYR-GMppnj248U7Q,RU,2018,7,3,Russia C Siberia,Р-257,Р-257 / Krasnoyarsk Krai
+58.7720782,36.2944354,SEW1hc2GTb433XcIGatjLg,RU,2014,9,3,Russia European W,Р8,Р8 / Vologda Oblast
+38.9201529,-4.3465171,OHH81obZhTygbjmHSAt5Rg,ES,2026,5,4,Spain interior,CR-403,"6 CR-403 / Abenójar, Castile-La Mancha"
+36.6983218,-78.4884228,lKKmQBbNqY2-hJpWnfZG5Q,US,2024,8,4,US Appalachia,State Rte 689,"648 State Rte 689 / Skipwith, Virginia"
+31.6206217,-113.76993,v-GDGV8lclFMn48v74EeWA,MX,2025,6,4,Mexico North,SON 3,SON 3 / Sonora
+25.1832763,-107.9570428,-TYbLUKlCw7oVBmMcGtyiA,MX,2024,1,4,Mexico North,,"El Cerro de Abajo, Sinaloa"
+39.8928735,29.3401195,cfz6_Wud6oGy8gYdNIBFyQ,TR,2024,7,4,Turkey,,Bursa
+1.1486866,111.5027396,82qLA9fYBHpfjamlC22jnw,MY,2025,3,4,Malaysia Borneo,Jln Paip,"Jln Paip / Simanggang, Sarawak"
+43.8314521,134.9924831,OD2jBgWQqwJ-q94IQ6J0vQ,RU,2013,7,3,Russia Far East,Lazo - Ol'ga,"Lazo - Ol'ga / Novonikolaevka, Primorsky Krai"
+33.203862,-85.789308,R5yNNiZ1LkQYbHubwDgDcA,US,2024,4,4,US Deep South,Mack Crawford Rd,"3042 Mack Crawford Rd / Ashland, Alabama"
+61.5477232,28.640429,kCm4An9ks_5KlXpWYGWjBg,FI,2025,8,4,Finland,Lieviskäntie,618 Lieviskäntie / South Savo
+46.9755444,39.617686,rp9M7Mt_W_1l4sWm7N9yog,RU,2019,9,3,Russia S steppe,Ulitsa Lenina,"Proletarskiy Pereulok / Novonikolaevka, Rostov Oblast"
+47.0896814,-111.9470553,8Xuc7AE_j9yaJawsfz3K6g,US,2026,7,4,US Montana/Wyoming,Old United States Hwy 91,"2975 Old United States Hwy 91 / Wolf Creek, Montana"
+-39.7030959,174.5974347,NQZ-8brl5m3RTvFHqJuvqg,NZ,2025,7,4,New Zealand,Karahaki Rd,"838 Karahaki Rd / Waverley, Taranaki Region"
+-16.6252103,133.3690527,W8_DGiw8q-WoraC2OpF7bw,AU,2025,6,4,Australia NT,A87,"A87 / Birdum, Northern Territory"
+3.2177366,113.6425689,GQT7YpLVH9XEzSvaecR_HA,MY,2025,5,4,Malaysia Borneo,Jln Bintulu - Bakun,"Jln Bintulu - Bakun / Sebauh, Sarawak"
+-8.1022377,110.9474952,tfLfnS-4CY-Xs0_rxM2wfw,ID,2025,6,4,Indonesia Java,Wareng - Mukus,Wareng - Mukus / East Java
+3.5733758,103.4044789,Fr7RiUu17rlrZWgBoWUmPQ,MY,2025,7,4,Malaysia Peninsula,,"Pekan, Pahang"
+53.0468658,31.7144161,24qxlkM7n_6TbbCjR86PoQ,RU,2013,9,3,Russia European W,"Pod""Yezd K Baturovka","Pod""Yezd K Baturovka / Bryansk Oblast"
+-41.7951687,171.4582454,jg2TLwdb-Tz66DTlND4LHw,NZ,2009,12,3,New Zealand,Okari Rd,"221 Okari Rd / Cape Foulwind, West Coast Region"
+54.4058336,79.6425746,6V8kbL21BOy_blJ4uSByUg,RU,2014,10,3,Russia W Siberia,Travnoye,Travnoye / Novosibirsk Oblast
+31.149473,-103.0666065,FefZS7lUl6bVFdsKfsJRug,US,2024,11,4,Mexico North,FM 1776,"FM 1776 / Coyanosa, Texas"
+44.3185398,-65.9302581,SwAPsYuaG_B_D9bev4GlJA,CA,2009,8,3,Canada Maritimes,Hwy 340,"4805 Hwy 340 / Weymouth, Nova Scotia"
+40.2367006,30.2570291,1ROF1aGlQljKhiv-M0FCAA,TR,2024,7,4,Turkey,Göldağı Köyü Yolu,Göldağı Köyü Yolu / Bilecik
+40.7247275,-4.2925422,WlQyeQ-Okchr0b99RCBqoQ,ES,2026,9,4,Spain interior,SG-500,"SG-500 / El Espinar, Castile and León"
+55.8642185,59.8284265,UTQEUGDZjtbmCYyZZIZJQQ,RU,2013,8,3,Russia Volga/Ural,,Chelyabinsk Oblast
+52.6430089,78.8570738,k7wf3gYceIWs6BDOL9pkZQ,RU,2018,7,3,Russia W Siberia,,Altai Krai
+54.3583745,37.0999577,RQsJnDHrwzKGvwtSttAt0A,RU,2013,9,3,Russia European W,,Tula Oblast
+41.9143422,15.7557764,lUO8r2prq7VdiJBXCAxm9A,IT,2026,5,4,Italy S/islands,SP41,SP41 / Apulia
+44.732996,28.3342427,7hP1ZLvElsQhR04kYwnfdw,RO,2024,4,4,Romania,DC30,"26 DC30 / Corugea, Tulcea"
+42.9553445,-105.2401184,t2fe_mKB2ai2Y6y92QKYdg,US,2025,7,4,US Mountain/Desert,Robinson Rd,"Robinson Rd / Douglas, Wyoming"
+30.6180871,-83.9741059,YbGkGoO9tp00ZhNh8GmDfA,US,2026,2,4,US Deep South,W Lake Rd,"W Lake Rd / Monticello, Florida"
+45.9033499,27.0063779,VDnJybmNsIFb3CtfeUs5Xw,RO,2023,8,4,Romania,DJ205E,DJ205E / Vrancea
+-33.2966124,26.7419329,3LTfRioldRSkT0TghNXWbA,ZA,2024,8,4,South Africa,N2,N2 / Eastern Cape
+54.8168549,72.5261244,cbEfgsnz72NG82Xb_ZmE3A,RU,2021,7,4,Russia W Siberia,Mar'yanovka,"Mar'yanovka / Vishnevka, Omsk Oblast"
+-31.1612757,27.8966771,Ui9fENVk1WTw6UTCHxrKDw,ZA,2025,7,4,South Africa,R393,R393 / Eastern Cape
+54.1660488,24.9049617,zgVP65vn-ss7ZVkXRrDlqA,LT,2023,6,4,Baltics,Pasienio gatvė,Pasienio gatvė / Vilnius County
+58.0279953,39.2099086,JwrvLdJbfqsI84T5dGk8Mg,RU,2019,5,3,Russia European N,,Yaroslavl Oblast
+50.2793364,-126.4373664,pb3aGmtw5dHHRG2drvdylA,CA,2024,10,4,Canada BC interior,BC-19,BC-19 / British Columbia
+5.6016777,116.4524936,qBvrc2OZykQerpJ8DxiC-g,MY,2025,1,4,Malaysia Borneo,,"Tambunan, Sabah"
+-7.7499987,109.7410501,jrGbKQTD5AorV_8zKYPSBQ,ID,2023,12,4,Indonesia Java,,Central Java
+30.7353959,35.8041126,gUk-rkb3SQXjBa0EEI2arw,JO,2017,2,3,Jordan,At-Tafilah Hwy,"At-Tafilah Hwy / Jurf ed-Darawish, Tafilah Governorate"
+-6.2085712,-43.5577661,gQwmGYqJfcN8gk8DkZi6Rg,BR,2025,6,4,Brazil NE interior,,State of Maranhão
+42.852103,-122.0159005,tkra6WsuRcuCU1D99BIlaA,US,2026,9,4,US PNW interior,,"Chiloquin, Oregon"
+-28.8287786,-71.4189512,YIrmZlow3xA7ghcN4soYKQ,CL,2024,4,4,Chile,C-496,C-496 / Atacama
+54.7502873,99.5815647,UhZOL_-5VhJ271RJ9rCdNA,RU,2021,8,4,Russia C Siberia,Р-255,"Р-255 / Kaduychik, Irkutsk Oblast"
+6.381797,101.5324258,eZJ8hpo39WEUSxj_AYNo2g,TH,2024,6,4,Malaysia Peninsula,นธ.4028,"นธ.4028 / Rueso Ok, Narathiwat"
+-4.2607018,102.9734799,h--gk4uSbWQxR2k5NIEBWA,ID,2025,8,4,Indonesia Sumatra,,Bengkulu
+50.1555605,25.2849812,xocRMn6RGnrS8zApzC9J6A,UA,2015,5,3,Ukraine,Е40,Е40 / Rivne Oblast
+39.1436488,33.3906872,bPi8aOekxAmuXCebvkD8rA,TR,2026,2,4,Turkey,O-21,O-21 / Ankara
+41.778933,15.027072,k7fc1hcQLhwrk-BrELcwLw,IT,2025,6,4,Italy S/islands,,Molise
+-32.4322402,117.2992492,Jv141jwTZi51wL49LIQUWQ,AU,2023,3,4,Australia WA,Jingaring Rd,"Jingaring Rd / East Pingelly, Western Australia"
+40.2904291,15.7500075,n_9T_yz7Lmo7H-mFpXJPtw,IT,2011,8,3,Italy S/islands,,Campania
+50.9254125,12.9427929,5xqsisHmQMdZWvyW-FqeYw,DE,2022,6,4,Czechia/Slovakia,K8250,"K8250 / Lichtenau, Saxony"
+50.7530713,61.3781373,NKz6OgnzciylfqbcLDvBMQ,KZ,2023,7,4,Kazakhstan N,A-22,A-22 / Aktobe Region
+57.8019076,33.9927342,7deA1ObNrOhq40slykfJPA,RU,2021,8,4,Russia European W,Kuzhenkino,Kuzhenkino / Tver Oblast
+13.9530285,122.3730591,COfWvEKtua79nmCDKec43g,PH,2025,2,4,Philippines Luzon,,"Guinayangan, Calabarzon"
+57.2511702,101.9706295,eaFskH4UYYHZ727IWRBl1w,RU,2013,7,3,Russia C Siberia,,Irkutsk Oblast
+-25.2930588,141.4183571,x-y4t6DVglV2pWqS1vdOnA,AU,2025,9,4,Australia QLD interior,Diamantina Development Rd,"Diamantina Development Rd / Farrars Creek, Queensland"
+43.2565955,-110.5066944,TbxxGLzPtlqUgkHEvgAO8A,US,2026,7,4,US Mountain/Desert,US-189,"US-189 / Bondurant, Wyoming"
+64.0962505,26.1028675,Y_0B9kNz71M9qrXyk17z3g,FI,2022,7,3,Norway,Ahkiontie,543 Ahkiontie / North Ostrobothnia
+46.1744309,-89.4989296,CCoxWmDm0urusBUqPy8lhQ,US,2024,8,4,Canada ON/QC,Co Hwy B,"8298 Co Hwy B / Land O' Lakes, Wisconsin"
+53.8436889,59.5211434,GQsVb1Wn1eSCPY6uKoaH3g,RU,2013,9,3,Russia Volga/Ural,,"Kassel'skii, Chelyabinsk Oblast"
+-42.9327033,-67.7729962,18e_ffzX0LtzlYK3kpkUBQ,AR,2026,3,4,Argentina Patagonia,RP11,RP11 / Chubut Province
+-41.3123617,-70.7009136,Tured61JvhAhJROfYQzLWg,AR,2025,9,4,Chile,RN1S40,RN1S40 / Río Negro Province
+65.6850833,27.0584669,1FtsXADHgZAEWUAiP_NpUQ,FI,2022,8,3,Finland,Tikanpalontie,2053 Tikanpalontie / North Ostrobothnia
+48.3578488,67.8281013,_UN2d7CzJOT9jZNyAMfHiw,KZ,2023,8,4,Kazakhstan C/S,,Ulytau Region
+50.3556942,45.2064517,enhjRWMpaJVppUi471DWzw,RU,2018,8,3,Russia S steppe,,"Smorodino, Volgograd Oblast"
+2.8825328,111.9600666,UAfTMCLSVCP8kwH8AICzyQ,MY,2025,3,4,Malaysia Borneo,Q1035 Jalan Kampung Penat,"123 Q1035 Jalan Kampung Penat / Mukah, Sarawak"
+41.9168546,-5.5135983,GlnuJIm2oLu6NRf9JTWtDg,ES,2026,7,4,Spain interior,A-6,"A-6 / Villalobos, Castile and León"
+57.322876,25.7796078,cp1fsS7obxgyokeWuvlV8w,LV,2024,8,4,Baltics,Rīga–Sigulda–Igaunijas robeža,Rīga–Sigulda–Igaunijas robeža / Smiltene Municipality
+45.0976468,20.9882421,fVL5En4_YCyq1iZ2QF8pqQ,RS,2024,11,4,Serbia/Bosnia/Croatia,132,"132 / Alibunar, Vojvodina"
+-31.1152091,-53.0237904,NyYTSa0Zi_eu4NgzfcQSxg,BR,2024,3,4,Brazil South,,State of Rio Grande do Sul
+-6.0490879,-39.5848828,ZnfuojUSpBCndTx911-gJg,BR,2023,10,4,Brazil NE interior,,Ceará
+57.968886,31.2870411,1MMbjFPD3znZyEx6BcFwQA,RU,2015,7,3,Russia European W,49К-17,49К-17 / Novgorod Oblast
+-8.3650795,120.9577924,a1b93FiBxTBcLM1fAQ5-Uw,ID,2023,10,4,Indonesia Nusa Tenggara,,East Nusa Tenggara
+-20.6115074,-48.4680789,HVXCUrqfDuv1n_gXXm_TCg,BR,2026,2,4,Brazil MG/SP interior,Estr. Vicinal Tute Vaz de Almeida,Estr. Vicinal Tute Vaz de Almeida / State of São Paulo
+48.0882495,33.9224936,8UihNuq-ynpV7kv5i0eaJA,UA,2015,7,3,Ukraine,Н11,"Н11 / Sofiivka, Dnipropetrovsk Oblast"
+-44.9415387,168.7124846,C40QY7xJV0L5FMMrXWMlaQ,NZ,2026,5,4,New Zealand,Coronet Peak Rd,"Coronet Peak Rd / Coronet Peak, Otago Region"
+56.9672748,-3.130856,bpqtc25uK__y_EO_kgUHoA,GB,2026,5,4,Scotland/Wales,,Scotland
+16.8913781,-91.8898521,1VgECLh2u2C7QK-cjMFlRA,MX,2025,4,4,Mexico South,,Chiapas
+-6.6287494,105.6555564,q2d20luIm1BFKN4B92556Q,ID,2024,6,4,Indonesia Java,,Banten
+18.2723706,54.3160074,_CTCZnFAZ5Pmb0llmpIozw,OM,2025,1,4,Oman/Saudi,,Dhofar Governorate
+51.7289464,72.2812196,0KC8w6Y3wotitPt7pPlfVQ,KZ,2022,9,4,Russia W Siberia,,Akmola Region
+55.2460499,74.3406484,s3tMrelBEzF1Vtv66YWaRQ,RU,2021,6,4,Russia W Siberia,Omsk,"Omsk / Kirsanovo, Omsk Oblast"
+44.5956533,-63.4491337,BXbeeoMY4Hno9GBQ1yMEFA,CA,2016,10,3,Canada Maritimes,,"Eastern Passage, Nova Scotia"
+-27.1574042,138.789433,wDoYUIPGdb88rYm_E7J2ww,AU,2024,9,4,Australia QLD interior,Birdsville Track,"Birdsville Track / Clifton Hills Station, South Australia"
+62.0315735,23.8324652,leGlW-7nlvsYqQ2y2fUBlQ,FI,2022,7,3,Norway,Haukkamaantie,1542 Haukkamaantie / Pirkanmaa
+51.8368759,108.0835249,4zeWER49q0HgGz77sP31bA,RU,2021,8,4,Russia Transbaikal,,"Todogto, Buryatia"
+16.7102815,103.3272325,le5lhULm8bzLJNLSV6Cwgg,TH,2023,5,4,Thailand,,"Khok Khruea, Kalasin"
+-21.7839273,146.973615,p-_dTPmCSny9dCPQT4ZDfQ,AU,2022,12,4,Australia QLD interior,A7,"A7 / Belyando, Queensland"
+52.167704,57.0315698,jG85Ty3KwdiEg9OsplwpBQ,RU,2013,6,3,Russia Volga/Ural,Р361,"Р361 / Aksair, Republic of Bashkortostan"
+37.394374,-7.9453832,_qkiPWHkMOp2CmOC8r21nQ,PT,2026,6,4,Spain interior,,Faro District
+46.865513,21.7299062,44X0sGAQapY_UrTOCXDo5g,RO,2024,4,4,Hungary,E671,E671 / Bihor County
+45.7628517,2.24101,AM-LXlGNFIJGZFex72EBJA,FR,2026,4,4,France rural,D28,"D28 / La Courtine, Nouvelle-Aquitaine"
+46.8880166,5.105531,GC7ALG5pThchpL39LUPb5w,FR,2026,6,4,France rural,Rte de Californie,"11 Rte de Californie / Sermesse, Bourgogne-Franche-Comté"
+-31.5542625,130.5093355,tncSvDRl5ZTrS3ceEybKMg,AU,2026,4,4,Australia SA,Eyre Hwy,"Eyre Hwy / Nullarbor, South Australia"
+-34.4564714,-65.2534172,TOmSth7isNwgWu13eBrCBw,AR,2026,8,4,Argentina Pampas,RP14,RP14 / San Luis Province
+-0.4927861,116.4612116,Cbt796TXyfAu2PTrUhDAbw,ID,2026,6,4,Indonesia Kalimantan,Jl. Poros,Jl. Poros / East Kalimantan
+7.8169205,99.6421748,mUczZ6sRFQ8Hzjl431AIvw,TH,2024,3,4,Thailand,,"Khao Pun, Trang"
+47.1487994,92.276087,alE-z94GZQ8nNiMtRtHEdg,MN,2024,6,4,Mongolia,Mankhan - Must Rd,Mankhan - Must Rd / Khovd
+10.6213285,124.9552828,AZ8R0bAo0b9WN6QLdyogRQ,PH,2025,10,4,Philippines Visayas,Eastern Nautical Hwy,"Eastern Nautical Hwy / Mahaplag, Eastern Visayas"
+-34.5116976,149.305712,za2Rg50ovyfab52HbkuqmQ,AU,2024,4,4,Australia NSW/VIC,Wheeo Rd,"1006 Wheeo Rd / Wheeo, New South Wales"
+45.8686653,21.5160799,zm0LiIRVi_j3npvXHoTYpQ,RO,2024,11,3,Romania,DC68,DC68 / Timiș
+40.0164415,-97.5120457,Cv1r5q6uGt8fF7_hkXd8qg,US,2024,6,4,US Plains,NE-8,"1366 NE-8 / Hubbell, Nebraska"
+65.047947,19.0714987,Ntgbi7T4MT5ldLavG05Ajg,SE,2024,5,4,Sweden,370,370 / Västerbotten County
+-9.1807449,-48.537236,9nDJ5tXe2DFikYDsbaHhpA,BR,2026,5,4,Brazil North,Rod. Transbrasiliana,763 Rod. Transbrasiliana / State of Tocantins
+34.3634894,-84.6190574,nR9BG1A-PccDKDkjb6m9MQ,US,2024,6,4,US Deep South,Garland Mountain Way,"1411 Garland Mountain Way / Waleska, Georgia"
+47.7186343,43.3326551,yJwHOcYg1B3vdPu5-td3jQ,RU,2018,9,3,Russia S steppe,,Volgograd Oblast
+54.5846571,-117.0401884,a_gwI7c0cVwn3l53dHULZQ,CA,2026,8,4,Canada BC interior,AB-43,AB-43 / Alberta
+57.3250493,52.2555489,mb2xEKpybWBkulADAlX5jw,RU,2013,8,3,Russia Volga/Ural,E22,"E22 / Selty, Udmurt Republic"
+-22.2421093,-60.0611515,TweF8RJD8zcXSasfHs1bPw,PY,2025,2,4,Argentina North,16,16 / Boquerón department
+37.8845907,-118.9530957,h5SiZfcpdZRVfXgWkIElyQ,US,2025,9,4,US Mountain/Desert,CA-120,CA-120 / California
+56.3126071,54.2970802,diBwRU897qvBGDDGvPqxdA,RU,2019,6,3,Russia Volga/Ural,Foki - Kambarka,Udmurt Republic
+-22.5332672,144.7663065,4jvhtTUFiLhwCD9clT23HA,AU,2024,10,4,Australia QLD interior,Muttaburra Bowen Downs Rd,"Muttaburra Bowen Downs Rd / Muttaburra, Queensland"
+19.801917,-98.2209144,jmjCcF6mjnuwZtjH3yZzww,MX,2013,8,3,Mexico Central,,"Piedra Ancha, Puebla"
+-31.0901851,-55.6107211,Ao2WNj4AF-kspQH4hAu2fQ,UY,2015,9,3,Uruguay,Brigadier Gral. Fructuoso Rivera,Brigadier Gral. Fructuoso Rivera / Rivera Department
+46.1529543,99.4391536,UNDoUpKOWaWL4zWnL_f8LA,MN,2024,6,4,Mongolia,Bayankhongor - Bumbugur Rd,Bayankhongor - Bumbugur Rd / Bayankhongor
+-10.6080586,-62.3394522,13I1St1f0VFyVvwgsXlpXg,BR,2026,6,4,Bolivia,BR-364,BR-364 / Rondônia
+48.8753269,17.5577045,93nP5FFmQEWf7kDgkCu_3g,CZ,2024,8,4,Czechia/Slovakia,,"Javorník, South Moravian Region"
+7.8199731,122.1443176,swHNGg5MjO1GKwBFHbsj4Q,PH,2016,2,3,Philippines Mindanao,Liloy - Siocon Rd,"Liloy - Siocon Rd / Baliguian, Zamboanga Peninsula"
+48.5741427,-100.102571,itewUmaXCrNT_7grL-e43w,US,2024,9,4,US Plains,26th Ave NE,"2601 80th St NE / Willow City, North Dakota"
+48.0777013,99.43298,GsCHDZUBwWbrYBZH99DaXg,MN,2024,7,4,Mongolia,,Arkhangai
+65.6451716,19.8209233,-NSQ52ILDH0xfX7ljH9Skw,SE,2026,9,4,Norway,BD 543,BD 543 / Norrbotten County
+49.3959677,30.5214434,ZjMBwLT0bKK34ySE-GlB5w,UA,2015,7,3,Ukraine,T1006,T1006 / Kyiv Oblast
+44.3902243,-91.5408532,-4-IH6MI8S2XMRs11vO5kw,US,2026,4,4,US Upper Midwest,Co Rd X,"33 Co Rd X / Independence, Wisconsin"
+54.8966824,50.0463868,stp4Ni8g9zoPywDpFByANw,RU,2018,8,3,Russia Volga/Ural,,Republic of Tatarstan
+51.8942094,33.3336995,o_wMbPX14m99SSKokAvs8A,UA,2015,6,3,Ukraine,Р65,"77 Р65 / Bohdanivka, Sumy Oblast"
+-32.2034373,142.4159229,pLtKsO0fcUVfkiZ_GByyNQ,AU,2025,6,4,Australia NSW/VIC,W Wilcannia Rd,"W Wilcannia Rd / Menindee, New South Wales"
+32.9194877,-90.6140275,thAaQNQMz7tXARhR9Fr0jg,US,2025,9,4,US Deep South,MS-16,"10544 MS-16 / Yazoo City, Mississippi"
+55.5284176,23.5840373,q8QvaoUWf8Gf0e0PrDH0VQ,LT,2025,10,4,Baltics,225,225 / Šiauliai County
+50.0714977,73.3417425,zBjIiMemQZ-p2N5yHZp7LQ,KZ,2022,9,4,Kazakhstan N,A17,A17 / Karaganda Region
+-34.741005,-55.5792014,pyn2nrlFTC60Urjtbx2YoQ,UY,2015,9,3,Uruguay,Independencia,8 Independencia / Canelones Department
+-36.2084016,-63.080539,NNumD6ntDjtjFlMhvXgoNA,AR,2024,11,4,Argentina Pampas,C. 15,"Av. San Martín / Bocayuva, Buenos Aires Province"
+52.641032,-7.5043858,ZqgN49OEamkB35xR-CBGfQ,IE,2025,6,4,Ireland,,County Tipperary
+44.0724614,-112.5356398,73GrDLhSvU6ho7Z1noUZNA,US,2025,8,4,US Montana/Wyoming,N 800 E,"N 800 E / Monteview, Idaho"
+43.3258349,17.0110638,74ua5FZOyKDwnZJL0opP_g,HR,2019,7,4,Serbia/Bosnia/Croatia,,"Veliko Brdo, Split-Dalmatia County"
+48.5135227,61.0023878,ceSMpYQbSfOxKicKUPRFwg,KZ,2023,6,4,Kazakhstan C/S,M32,M32 / Aktobe Region
+-31.7035991,-60.3543301,0ZHCzC-dhyI5iS-mRevp-Q,AR,2024,10,4,Argentina North,,"Villa Urquiza, Entre Ríos Province"
+22.924377,55.6336398,y0X33Pb-__ac1Zm62alZxw,OM,2025,3,4,Oman/Saudi,,Ad Dhahirah Governorate
+29.7485043,-98.2055097,r46WQ1N1L6n-yagOF7geHw,US,2026,3,4,US Texas interior,Farm To Market Rd 2722,"832 Farm To Market Rd 2722 / New Braunfels, Texas"
+47.0787817,-93.4869338,Pz7kQKJ_kjPkZ54hzmkAPw,US,2025,8,4,US Upper Midwest,Splithand Rd,"29985 Splithand Rd / Grand Rapids, Minnesota"
+55.1377871,71.5341194,duozArgUQlJqsf11gbIbJQ,RU,2021,7,4,Russia W Siberia,,Omsk Oblast
+57.8466336,57.5115878,pStng5x_A5rNcfXel6XTyg,RU,2018,7,3,Russia Volga/Ural,57К-0001,"57К-0001 / Novorozhdestvenskoe, Perm Krai"
+54.7857672,85.4069077,Sfy65f3U8qLr6R21BJVKrA,RU,2018,7,3,Russia W Siberia,,"Krasninskoe, Kemerovo Oblast"
+53.6844874,64.166002,HOdv9_0gGDSvqjTkujUxMg,KZ,2023,7,4,Kazakhstan N,A-21,A-21 / Kostanay Region
+46.3425787,-0.1782282,t0oG1jzGhxTPYAvX5J9QbA,FR,2025,8,4,France rural,,"Souvigné, Nouvelle-Aquitaine"
+-11.9992495,-60.9321041,74jGPxULuf3MTqvxEsvJsA,BR,2026,8,4,Bolivia,BR-364,146 BR-364 / Rondônia
+-33.2885057,-56.3483163,9h9Y9di22lwYgvRXTP6ShA,UY,2015,10,3,Uruguay,100,100 / Durazno Department
+-38.8950036,176.4173961,CEtgUOWSfbLgDhaYpIKvzw,NZ,2025,11,4,New Zealand,State Hwy 5,"3723 State Hwy 5 / Rangitaiki, Bay of Plenty Region"
+-7.2758995,111.1764425,2QOcNJVNJjIEV7GUUFO7OA,ID,2015,11,3,Indonesia Java,,East Java
+-1.3977686,-78.3790306,9srrVFuO7B4CllUXUF_o0w,EC,2025,8,4,Ecuador,E30,E30 / Tungurahua
+60.8385668,27.8040939,YDpNkiMIw2pIy6yL90Zzuw,FI,2026,8,4,Finland,14759,623 14759 / South Karelia
+-50.2114918,-68.9575246,wiowYEvKX2lRTjKFvxZtEA,AR,2026,2,4,Argentina Patagonia,RN3,2401 RN3 / Santa Cruz Province
+-7.714861,-72.3940896,K04XLVQrT4KQfMNm8rimtA,BR,2012,8,3,Peru,,State of Acre
+38.3170883,33.8544405,-kVM5ZI2kL0Bac0VgrgwnQ,TR,2026,2,4,Turkey,Konya Aksaray Yolu,Konya Aksaray Yolu / Aksaray
+-27.0295229,142.9304757,WZUBuSPc-twdP2gkSNsngQ,AU,2025,9,4,Australia QLD interior,Cooper Developmental Rd,"Cooper Developmental Rd / Eromanga, Queensland"
+-44.1541617,171.0296987,mKCBF_7D27ccI3Bo13BVCQ,NZ,2023,8,4,New Zealand,Wigley Rd,"Wigley Rd / Kakahu, Canterbury Region"
+50.9474307,-116.4059505,nfgQ9igbX1yRl6QiKhxbvA,CA,2025,9,4,Canada BC interior,BC-95,"BC-95 / Spillimacheen, British Columbia"
+47.1679545,-94.6977532,1L6ENMnp_opmy1IZ-nlG2g,US,2024,9,4,US Upper Midwest,MN-200,"31784 MN-200 / Laporte, Minnesota"
+40.3889286,21.9733467,lFVZwuhrY5L-RNM_5u7Tug,GR,2025,7,4,Greece,,Decentralized Administration of Epirus and Western Macedonia
+48.7457676,33.1682467,NQJb5FcLNmdNWh7s_a97bw,UA,2015,6,3,Ukraine,Е584,Е584 / Kirovohrad Oblast
+-20.8908285,116.4543962,YSZilI_jqlRSKDhfdaPhCg,AU,2025,11,4,Australia WA,North West Coastal Hwy,"North West Coastal Hwy / Mardie, Western Australia"
+39.4308604,31.1492266,_Dm4RoTg9bY1olkz-fgBOw,TR,2026,5,4,Turkey,Çifteler Yolu,Çifteler Yolu / Eskişehir
+-10.5178096,-53.6538632,RF4o_a4g-B1wEgm3VVolMQ,BR,2025,8,4,Brazil North,MT-322,MT-322 / State of Mato Grosso
+-31.10255,26.0024953,6maZ2eh6evxWb-GJCz4Q4Q,ZA,2026,7,4,South Africa,,Eastern Cape
+37.587579,34.5372424,4HjkFAGPIDu63E6iznTZrQ,TR,2025,7,4,Turkey,Adana Niğde Yolu,Adana Niğde Yolu / Niğde
+47.4207931,-102.5246325,VRE1S5C-wgMPWMsZiJpmkQ,US,2021,9,4,US Plains,93rd Ave NW,"40 93rd Ave NW / Halliday, North Dakota"
+44.9843454,-62.8762272,t70fT2HY2VcPpNet8tFG2g,CA,2024,6,4,Canada Maritimes,Mooseland Rd,"Mooseland Rd / Middle Musquodoboit, Nova Scotia"
+45.5038938,-89.9705836,Fm7-FrFpyPlWSlvlDQY9Ig,US,2025,6,4,US Upper Midwest,Co Rd T,"9656 Co Rd T / Tripoli, Wisconsin"
+47.5708173,107.3387204,BRLGEc2XgzbEYKw3JWMjqQ,MN,2025,10,4,Mongolia,AH3,AH3 / Töv
+-41.6213483,146.2513708,hHBA4YXWoQvA6iX-vLYoKw,AU,2025,2,4,Australia Tasmania,Lake MacKenzie Rd,"Lake MacKenzie Rd / Mersey Forest, Tasmania"
+55.1356549,67.7991273,gWDkl4TDZfVBBptFDLfULw,RU,2013,7,3,Russia W Siberia,Р-254,"Р-254 / Petukhovo, Kurgan Oblast"
+41.0062652,30.7018623,uY4tYL-SfSJ8V69AQotRlA,TR,2025,7,4,Turkey,,Sakarya
+-37.375268,175.2155214,5V8FwhXgILDhApYs2LI8WQ,NZ,2025,2,4,New Zealand,Kelly Rd,"69 Kelly Rd / Waerenga, Waikato Region"
+20.8092558,-89.3584846,BH3PCVqR2D9Vu9T4_Dp0yQ,MX,2013,8,3,Mexico Yucatan,,Yucatan
+48.842637,30.6480347,KnW6LRAj75_6ntOShN1PxA,UA,2015,7,3,Ukraine,Н16,"Н16 / Bilashky, Cherkasy Oblast"
+60.4992594,15.0348466,bP-KlV1tsZHMTpTTEJ8K-Q,SE,2026,5,4,Sweden,Bästenvägen,"Bästenvägen / Mockfjärd, Dalarna County"
+31.1132407,-102.7335959,f5G9djxpbelXpHUTcqJGyA,US,2026,3,4,Mexico North,Buena Vista Rd,"Buena Vista Rd / Imperial, Texas"
+53.1206922,78.5241745,EDV6j3CVqJwqELI9JTmohA,RU,2018,7,3,Russia W Siberia,,"Burla, Altai Krai"
+-19.9033428,-49.3215821,LRjRCfdR_Bjj-g5eyUraPw,BR,2025,1,4,Brazil MG/SP interior,MG-255,134 MG-255 / State of Minas Gerais
+52.0579492,113.3572717,brF93Yep8WvAERUitXE2LQ,RU,2013,6,3,Russia Transbaikal,Proyezd Energostroiteley,"1 Proyezd Energostroiteley / Poselok Energetikov, Zabaykalsky Krai"
+49.6684903,20.0263111,mhVdSibcIpctKiTg4Ro5Hw,PL,2026,6,4,Czechia/Slovakia,,Lesser Poland Voivodeship
+39.5091111,22.0938726,7iZSlMpnaZHKX_-FTjr91w,GR,2025,4,4,Greece,,Decentralized Administration of Thessaly and Central Greece
+-20.4217747,-51.1662388,llQTl5t429fEiYa82Prxzw,BR,2026,8,4,Brazil Centre-West,Rod. Pref. Ettore Bottura,Rod. Pref. Ettore Bottura / São Paulo
+-39.9872814,175.1286873,vkv1QBKUfOdw77DUtSH45Q,NZ,2010,2,3,New Zealand,Marangai Rd,"120 Marangai Rd / Whangaehu, Manawatū-Whanganui Region"
+-28.5194877,-65.3341572,XfTSCmgqnSPfJKNhbB3SAA,AR,2021,6,4,Argentina North,RP126,RP126 / Catamarca Province
+30.3522499,-97.2732241,p8M7hQMVq3H1JWWwRqo-iQ,US,2024,10,4,US Texas interior,FM 696,"910 FM 696 / Elgin, Texas"
+47.3822252,103.776588,7GVvfKL_UXM6FNtgxp3TaQ,MN,2024,6,4,Mongolia,,Bulgan
+-42.8143037,-68.0158663,A3Znm-6Iy80s4pSKnvLhrg,AR,2026,3,4,Chile,RP11,RP11 / Chubut Province
+46.2721311,18.6830722,38Wxt8zlJs7szmaKVy2L4Q,HU,2024,6,4,Hungary,56,"56 / Decs, Tolna County"
+-32.0000889,141.3134249,erAJi6tckc9VFPzr9_TVvg,AU,2024,8,4,Australia NSW/VIC,A32,"A32 / Broken Hill, New South Wales"
+56.7590327,103.8557009,o_1wxfQ07X5PmpIkOf2HlQ,RU,2013,7,3,Russia C Siberia,Р419,"Р419 / Ilimsk, Irkutsk Oblast"
+-7.652262,-44.1828291,Qm3T7r-EX7_O1d_fekkZ7Q,BR,2026,9,4,Brazil NE interior,Rod. Transcerrado,Rod. Transcerrado / Piauí
+-9.7101798,-48.5804048,r_cA9dJ_xG64NjjM6ugkfw,BR,2023,5,4,Brazil North,,State of Tocantins
+5.5944685,100.6155736,8dCh0T0AJRFZLjXdn18q1g,MY,2021,1,4,Malaysia Peninsula,K736 Jalan Tanah Licin,"K736 Jalan Tanah Licin / Baling, Kedah"
+48.0479548,19.1245078,QspNo56kEy_DFhzsInaTSA,HU,2024,9,4,Hungary,22101,"22101 / Ipolyvece, Nógrád County"
+55.0547343,72.8210705,nfn5CW0_Rx03smqdHR8GNA,RU,2021,7,4,Russia W Siberia,,"Stepnoe, Omsk Oblast"
+-0.2620112,101.3260444,dsO5yoaxhLzcE7KIPsp6kQ,ID,2023,11,4,Indonesia Sumatra,Jl. Jend. Suhirman,133 Jl. Jend. Suhirman / Riau
+38.0075533,29.4255475,s7FA4C92qb_8Bzn3hoNqag,TR,2025,9,4,Turkey,,Denizli
+51.4571024,78.0234796,YhrHrcpo0gW0tHxZx2BHdA,KZ,2022,9,4,Kazakhstan N,M-38,M-38 / Pavlodar Region
+-36.9614251,145.3141903,VTakd--lhTQNTObG82sqgw,AU,2026,1,4,Australia NSW/VIC,Tarcombe Rd,"Tarcombe Rd / Avenel, Victoria"
+12.372419,122.5219873,odSxN_GsGd-zNpjPt7VIfg,PH,2025,12,4,Philippines Visayas,Sibuyan Circumferential Rd,"Sibuyan Circumferential Rd / San Fernando, Mimaropa"
+40.2763505,-6.2055877,2D0qcvdgSXNBxrM72VGvNQ,ES,2011,3,3,Spain interior,,"Mohedas de Granadilla, Extremadura"
+2.930762,112.3121042,tBBbdhm-qyurwri7f8Uu4g,MY,2025,3,4,Indonesia Kalimantan,Q225,"Q225 / Mukah, Sarawak"
+55.1715364,59.1959531,lDVgevlRigtmsKvBgl21vw,RU,2013,9,3,Russia Volga/Ural,,"Berdyaush, Chelyabinsk Oblast"
+6.6966944,-72.8858987,jOYhZWUtjMEAq43R3c7guA,CO,2023,8,4,Colombia,,Santander
+34.9714116,-97.8244244,AOcTzzFlnYpFfcLisA2acQ,US,2026,2,4,US Texas interior,E1410 Rd,"E1410 Rd / Chickasha, Oklahoma"
+-1.3111106,123.2910457,xHNjrTZ-s_MdxU_aqBSLFA,ID,2025,10,4,Indonesia Sulawesi,,Central Sulawesi
+51.1157022,-110.7956753,2MV1QPJicfw-W0hHrbAn6Q,CA,2024,5,4,Canada Prairies,AB-886,"AB-886 / Big Stone, Alberta"
+-14.2892254,-51.146387,pErqbxF4DTUPmLj6inpdag,BR,2026,8,4,Brazil Centre-West,MT-326,MT-326 / Mato Grosso
+53.6955668,58.9060798,5kq-mkEZTf_i6bTPeLO8cA,RU,2013,8,3,Russia Volga/Ural,,"Taisara, Chelyabinsk Oblast"
+1.0909523,97.8338625,siZEWzBmjOs31bNAXOJi9A,ID,2026,6,4,Indonesia Sumatra,,North Sumatra
+43.0165216,-106.7423365,1Re6iKwlErEko7_hzkrHTQ,US,2026,7,4,US Mountain/Desert,US-20,"24169 US-20 / Natrona, Wyoming"
+47.7615185,95.8647653,0TK0h3FiXZa1ruQjbNmNig,MN,2024,7,4,Mongolia,,Zavkhan
+-1.5976569,102.3808469,nlOXq_QPNemPFlePPD6WUA,ID,2016,8,3,Indonesia Sumatra,,Jambi
+-34.6537297,-70.8360301,aYtYsDjSouNo_bSWaqqGUg,CL,2026,2,4,Chile,I-309,"39 I-309 / Agua Buena, O'Higgins"
+49.440269,18.5835246,kWC6TzoVQdX9h63nifIWyw,SK,2023,6,4,Poland,484,"484 / Klokočov, Žilina Region"
+-38.618214,176.7436122,Opcff8vM7GLlkdwJdeyn4g,NZ,2024,1,4,New Zealand,Minginui Rd,"420 Minginui Rd / Minginui, Bay of Plenty Region"
+-21.3094036,118.6990801,TQ6npql16Ljl-WN-rRu97g,AU,2025,11,4,Australia WA,National Highway 95,"National Highway 95 / Marble Bar, Western Australia"
+47.0230611,-98.5272529,LOD1vfGRYnL6vNQ21KTzWw,US,2026,8,4,US Plains,27th St SE,"9316 27th St SE / Spiritwood, North Dakota"
+51.9960843,-109.1453807,PXhZmtb6JiQBLQ5sbKD64Q,CA,2026,4,4,Canada Prairies,SK-21,"SK-21 / Kerrobert, Saskatchewan"
+53.0135158,112.1164699,43C0D2v5NRLyCwgN_DSnEQ,RU,2021,8,4,Russia Transbaikal,Ulan-Ude,Ulan-Ude / Buryatia
+51.6277751,75.4271211,Ez6_x2RotJPCZHfVTPSSdA,KZ,2022,9,4,Kazakhstan N,,Pavlodar Region
+-12.8820423,-74.0202421,X4WFn4-v9mVl_T2xk7kpdw,PE,2025,12,4,Peru,Ayacucho - San Francisco,Ayacucho - San Francisco / Ayacucho
+60.8385722,12.2099383,3rLnoGtLSQx3v74ZvtkYhw,NO,2025,6,4,Norway,,Innlandet
+56.6150176,-5.492255,zII-F21Xjxmh6oQK7Hupug,GB,2025,10,4,Scotland/Wales,B8043,B8043 / Scotland
+56.2869383,23.9383256,ovjIV6IIA2mIQ_bN1KwT0Q,LT,2012,6,3,Baltics,,"Vydžiai, Šiauliai County"
+41.2894164,25.7863585,KbnOi6Szv_mMs_dcj6L5qw,GR,2014,9,3,Greece,,Decentralized Administration of Macedonia and Thrace
+39.082765,-81.0744385,qXuYjGUSnjnkqjFhWtdHGw,US,2025,10,4,US Appalachia,Co Rd 28,"Co Rd 28 / Harrisville, West Virginia"
+-51.0881434,-69.5309256,-ncqDcLWtdPRL6Vu7nl0BA,AR,2026,1,4,Argentina Patagonia,RN3,2514 RN3 / Santa Cruz Province
+42.7841367,-115.8051046,ryV0xJtLoH473aVuo9TfPw,US,2021,8,4,US Mountain/Desert,Sugar Valley Rd,"Sugar Valley Rd / Bruneau, Idaho"
+56.8214403,22.8437299,_0SlvDt7V1KQaIPlDPXexw,LV,2024,7,4,Baltics,,Tukums Municipality
+48.2221645,16.8004079,2AhkydT3etjuybp5BXuh3Q,AT,2026,8,4,Hungary,L5,L5 / Lower Austria
+-21.1094834,-44.0973454,HrIS7Bqg7Y41HkPjpHzskw,BR,2025,10,4,Brazil MG/SP interior,,State of Minas Gerais
+46.0187427,96.9024406,xiWyTtrdcdRt7rvcfKUgqQ,MN,2024,6,4,Mongolia,,Govi-Altai
+54.1028536,-7.8881941,XylHEs3Wd3a0qh-3mmAL8Q,IE,2009,8,3,Ireland,,County Leitrim
+3.2677371,-74.9964114,SsNCr8e--Ze2q9bcjztmxQ,CO,2025,2,4,Colombia,Baraya-Alpujarra,Baraya-Alpujarra / Huila
+51.5678677,103.9799368,EsaFtnQzXqgAJcBjdbBkfQ,RU,2021,7,4,Russia C Siberia,Avtodoroga Baykal,Avtodoroga Baykal / Irkutsk Oblast
+31.9797139,-105.9268301,t9AZIGUbk4ZmIZksgJ6bVw,US,2026,2,4,Mexico North,Loma Linda Rd,"Loma Linda Rd / El Paso, Texas"
+58.55663,59.3001045,ats8nVFVB_AW45DJD7Yo8w,RU,2018,7,3,Russia Volga/Ural,,"Promysla, Perm Krai"
+45.4448009,1.0008427,r5K6alKJYLzDE1CWYioGPQ,FR,2025,9,4,France rural,Rte des Pommiers,"112 Rte des Pommiers / Sarrazac, Nouvelle-Aquitaine"
+-13.7496887,-57.6041637,mu6TgOvALLhkJvW4cQJUiQ,BR,2025,5,4,Brazil Centre-West,,State of Mato Grosso
+57.1953307,13.7619642,Gcb1ePfKEfOG19ZMOkjFHA,SE,2024,4,4,Sweden,152,152 / Jonkoping County
+49.2792425,15.1491231,Wh808MUtLRHtwddilXBSXg,CZ,2025,5,4,Poland,,"Žirovnice, Vysočina Region"
+-11.8045297,-77.0083203,G-z6FDSu9efooXNB2PZ8oA,PE,2024,4,4,Peru,,"Carabayllo, Lima Province"
+-43.7923474,171.4133836,h0wLg6Ol860_DHeCU4Fllw,NZ,2026,3,4,New Zealand,Anama Settlement Rd,"289 Anama Settlement Rd / Mayfield, Canterbury Region"
+16.4132016,99.6188863,DhAuyGuC3CiVYUPKoGGydA,TH,2024,4,4,Thailand,กพ.3017,"กพ.3017 / Thep Nakhon, Kamphaeng Phet"
+51.1148074,66.4676667,aUKb_RGcllFvmdSAA-QUdA,KZ,2023,9,4,Russia W Siberia,R-260,R-260 / Akmola Region
+52.4358851,23.296857,Rt_wQ-xf_MXbAE0TcYEWzg,PL,2024,6,4,Poland,,Podlaskie Voivodeship
+44.2578133,-0.7403256,RctJNTUFCnt2rlfukSHfWg,FR,2013,4,3,France rural,,"Trensacq, Nouvelle-Aquitaine"
+4.2381317,-74.6179657,ckPOxKEEEhj29hO1Zo5o_g,CO,2026,6,4,Colombia,40,40 / Tolima
+46.9272969,-122.9940358,x8IlEWUly98kQxhvVoJUNA,US,2026,4,4,US PNW interior,110th Ave SW,"5372 110th Ave SW / Olympia, Washington"
+37.1511695,41.7154651,Kjhecojm64zI4ShMeUiYuA,TR,2026,2,4,Turkey,E90,E90 / Şırnak
+56.4119421,102.9010384,QTWNV9Bvclo5oPsKqeH2kg,RU,2013,7,3,Russia C Siberia,Р419,"Р419 / Prizyv, Irkutsk Oblast"
+48.2457115,70.3673667,Gw37nkV08kVk-2aM0e4MCA,KZ,2023,8,4,Kazakhstan C/S,P34,P34 / Ulytau Region
+42.0225529,-122.5963819,fTgE2zz8krI7C6OYrsX2tg,US,2024,5,4,US PNW interior,Old Hwy 99 S,"13083 Old Hwy 99 S / Ashland, Oregon"
+40.0933832,-108.7753641,ZEEH5qIOkmrABV9ScMJiDA,US,2025,9,4,US Mountain/Desert,Airport Rd,"82 Airport Rd / Rangely, Colorado"
+-7.1814861,-43.1448973,2JhmJsfWG1TaQ_DA7hM3jw,BR,2026,8,4,Brazil NE interior,PI-140,PI-140 / Piauí
+-36.2330091,-57.7181205,27HGubVwM3GI6mmPeqLfHA,AR,2026,9,4,Argentina Pampas,RP2,RP2 / Buenos Aires Province
+41.6562261,24.141781,smjT4OUsJspQAT4zL4VOcQ,BG,2021,8,4,Bulgaria,,"Dospat, Smoljan"
+2.3406178,-75.593358,_m7VQPnk8Z-K46pxQaApSw,CO,2014,4,3,Colombia,,Huila
+42.2814057,27.5948436,AtA5tkXTV5cO0aHt_GmQYA,BG,2024,9,4,Bulgaria,9009,"9009 / Yasna polyana, Burgas"
+-29.5336436,135.0583352,E9I2UTUadRjoqnUD_2RFNw,AU,2026,7,4,Australia SA,Stuart Hwy,"Stuart Hwy / Ingomar, South Australia"
+-29.5266392,27.2601198,abjSzsDUQceGyPrTBcwNzQ,ZA,2026,3,4,South Africa,,Free State
+41.8870767,-96.586785,c_U0C2ViGKtsfBn6bjxMwQ,US,2024,8,4,US Plains,K Rd,"2352 K Rd / Oakland, Nebraska"
+53.4734795,75.4578892,tZ9LoqWBsUrQ1vN4Uo_FVQ,KZ,2022,10,4,Russia W Siberia,M38,M38 / Pavlodar Region
+32.8359306,-86.6973209,ZjQOKVRPTi5x0WB8GsuYAg,US,2026,8,4,US Deep South,Co Rd 232,"4406 Co Rd 232 / Clanton, Alabama"
+40.4230886,-97.6430539,95AnYrwQ-cPPtbesHzlzjg,US,2026,6,4,US Plains,NE-74,"NE-74 / Geneva, Nebraska"
+-24.1447448,-53.8842848,-v433MLnuuzCxZOKs9I0qQ,BR,2023,9,4,Brazil South,,State of Paraná
+30.9599099,-100.7045599,077VTaQigOBLk1hunEWPhA,US,2024,5,4,US Texas interior,Farm To Market 1828,"6359 Farm To Market 1828 / Eldorado, Texas"
+39.6269901,-102.5923999,LHG8RLlAD1HBbkCxzY4w7w,US,2025,8,4,US Plains,County Rd M,"3998 County Rd M / Kirk, Colorado"
+0.4789923,109.1131952,e2EnYYvZTnL7Dn5TrQ7CVQ,ID,2016,4,3,Indonesia Kalimantan,,West Kalimantan
+45.0783931,-92.0431674,C69JceAqLPoSA18vhjfwJg,US,2024,5,4,US Upper Midwest,WI-79,"10968 WI-79 / Boyceville, Wisconsin"
+39.3330808,-7.861696,BwR4z4u7GegECtzuV2edcQ,PT,2024,10,4,Spain interior,,Portalegre District
+-2.8409342,-78.2389696,wOzulmVeOPJFiftKn9dSmA,EC,2025,10,4,Ecuador,E40,E40 / Morona-Santiago
+2.0511855,100.2625518,s21Dd0ycyoV8z_3ompvZvg,ID,2024,4,4,Malaysia Peninsula,,North Sumatra
+-37.9047254,175.3674999,7D7xNO2fFXl6jLNrOxTEjw,NZ,2010,1,3,New Zealand,Kite Access Rd,"89 Kite Access Rd / Ōhaupō, Waikato Region"
+58.6082414,48.9728751,hRYtOXR9XPjwkurpmsLDTw,RU,2021,7,4,Russia European N,Р24,Р24 / Kirov Oblast
+20.9697694,-101.688305,n2yUTfVf7OvLTHGsKSij0Q,MX,2018,9,3,Mexico Central,,Guanajuato
+39.1074458,43.3410939,5a6CR-59y52KoXJ6RFaEyA,TR,2024,7,4,Turkey,Erciş Yolu,Erciş Yolu / Van
+55.5072412,25.0158691,c4RfKGVRBi4sBtaHHN5zBQ,LT,2012,10,3,Baltics,,"Pagiriai, Utena County"
+45.0312844,-90.7175016,9BwgBmOAALUSHQThZDOpgQ,US,2026,8,4,US Upper Midwest,County Line Rd,"7911 County Line Rd / Withee, Wisconsin"
+37.8540887,-108.4227099,4Dprp5l2iJFpqXvJEwtUrg,US,2025,7,4,US Mountain/Desert,Disappointment Rd,"34001 Disappointment Rd / Egnar, Colorado"
+-23.670761,146.0741051,2No7L3nVaXmHd4swWZ1J9g,AU,2025,4,4,Australia QLD interior,Blackall Rd,"Blackall Rd / Jericho, Queensland"
+42.6039895,26.4096985,dA0MPNR4tKM23GJ51eMr0A,BG,2023,8,4,Bulgaria,ул. Хаджи Димитър,"ул. Хаджи Димитър / Камен, Sliven Province"
+65.2814243,-14.0072055,c719GrbFeP2dSjRpsywqwQ,IS,2024,7,4,Iceland,,Múlaþing
+47.5371661,92.1626484,8fK215MVIHq1RftF8T3DlQ,MN,2024,7,4,Mongolia,AH4,AH4 / Khovd
+65.8989269,21.8872238,KkPWyzUwjVJFJwbbPYBy7Q,SE,2026,8,4,Sweden,,Norrbotten County
+38.9557771,-108.9356223,qmTlPBqAFn--WkSF4yTh_g,US,2012,7,3,US Mountain/Desert,D S Rd,"5931 D S Rd / Glade Park, Colorado"
+50.6265778,-112.9132362,yMmtcXjOmdWkTx21P9Qi3w,CA,2025,6,4,Canada Prairies,Range Rd 220,"Range Rd 220 / Milo, Alberta"
+36.6943481,-110.0848957,CEL0nTgO7G83v4UvnrwQeA,US,2024,6,4,US Mountain/Desert,Indian Rte 59,"Indian Rte 59 / Kayenta, Arizona"
+18.330315,-92.4873325,jkbiVntmGyrtnArAoiJJSw,MX,2025,3,4,Mexico South,Frontera - T. C. (Jalapa - Jonuta),"Frontera - T. C. (Jalapa - Jonuta) / San Antonio, Tabasco"
+52.0463974,17.8986873,fVR_Eq31J0fBxUlJAXeHcA,PL,2023,9,4,Poland,,Greater Poland Voivodeship
+-10.5469458,-38.7622194,elHf3wcv2SPIjV2VulGUUA,BR,2023,10,4,Brazil NE interior,BA-220,State of Bahia
+-22.7776343,132.5243692,I1upNFgInWouQ55K0t58_w,AU,2025,7,4,Australia NT,Tanami Rd,"Tanami Rd / Anmatjere, Northern Territory"
+45.8726022,45.5658687,fzWizj9uDer0Mn1XrTOebg,RU,2018,9,3,Russia S steppe,,Republic of Kalmykia
+-27.3562557,-60.4165688,ZKaD2e3YyXaYppeGlWNJSw,AR,2026,6,4,Argentina North,RP4,RP4 / Chaco Province
+-45.7845794,170.5522027,bdudg22M0nizzPZJWqW5AQ,NZ,2025,12,4,New Zealand,Dunedin-Waitati Road,"Dunedin-Waitati Road / Mount Cargill, Otago Region"
+2.3374959,103.0249438,jU8-Mznnq8fYtF9wwwLQaQ,MY,2019,8,4,Malaysia Peninsula,,Johor
+42.1786505,-97.1839192,uxmIiNqxBRnDXP6OZvgTlg,US,2026,7,4,US Plains,NE-35,"NE-35 / Winside, Nebraska"
+23.9723486,88.5833022,2kU1fVjMmjX6xkmq88A7sw,IN,2023,8,3,India,Natidanga Road,"Natidanga Road / Senpara, West Bengal"
+50.5134509,-104.4690028,J2Z2CYc29CqrRvY9hozXHQ,CA,2025,6,4,Canada Prairies,,"Zehner, Saskatchewan"
+-27.4073164,-55.1394804,Lob1ltmtJxdfBmKh_FlG_A,AR,2024,5,4,Brazil South,RP5,RP5 / Misiones Province
+-42.2980617,147.0604968,Z96Y0kaga4n8FpRl58ItWQ,AU,2025,2,4,Australia Tasmania,C528,"C528 / Bothwell, Tasmania"
+47.687555,22.0229472,DxjQgWnhNeQV6FYmstTvCg,HU,2023,8,4,Romania,Szatmári St,"86 Szatmári St / Nyírlugos, Szabolcs-Szatmár-Bereg"
+48.8885167,90.4894992,Y-4AhvMnrSeucaR2lznmGg,MN,2024,7,4,Mongolia,Bayannuur - Bugat Rd,Bayannuur - Bugat Rd / Bayan-Ölgii
+-28.4350002,138.6854071,HDRb1ISn-BiJylyqWMHsgA,AU,2024,9,4,Australia SA,Birdsville Track,"Birdsville Track / Mulka, South Australia"
+48.0431504,59.1763714,jMIWinOWIILK_SZVSPGp5g,KZ,2023,6,4,Kazakhstan C/S,A-26,A-26 / Aktobe Region
+16.79801,121.9037694,RSYKJMWjfamwtRZ940qOLg,PH,2023,7,4,Philippines Luzon,,"Angadanan, Cagayan Valley"
+52.877239,-106.0372617,8OwUaOw_3Wsfxo3jKpDVSA,CA,2025,8,4,Canada Prairies,SK-782,"SK-782 / Saint Louis, Saskatchewan"
+-36.9021842,-59.9352951,__LGAoVs9A-xdlssfaRz9Q,AR,2024,4,4,Argentina Pampas,RN3,RN3 / Buenos Aires Province
+-14.8872861,-52.2473587,lmT9UPG2fiMiGBsbtsb-bg,BR,2024,11,4,Brazil Centre-West,,Mato Grosso
+61.3730126,46.2057945,UrDoAbh2pf0TNwJ87ECXwg,RU,2021,8,4,Russia European N,,Arkhangelsk Oblast
+67.4758099,22.6540544,GY6LISZ1_TSnWgSBOCCHAw,SE,2024,4,4,Finland,Södra Byavägen,33 Södra Byavägen / Norrbotten County
+57.296555,54.3505743,UnRhY-4asAwX1Ywi116XWA,RU,2018,7,3,Russia Volga/Ural,,"Lis'ya, Perm Krai"
+39.4321056,-5.1852819,kCK2gDDiYvA_T7ZrU4nfzA,ES,2025,8,4,Spain interior,,"Alía, Extremadura"
+41.8527226,-5.0896324,UkDmwa9Ez8cVBnmJMFgM6g,ES,2025,5,4,Spain interior,Cam. de Rioseco,"Cam. de Rioseco / Villabrágima, Castile and León"
+-21.3346844,-48.5951962,wGOjtxEfnpr9BJe13l7SnA,BR,2024,2,4,Brazil MG/SP interior,Estr. Mun. Vicente Cambero,Estr. Mun. Vicente Cambero / State of São Paulo
+56.0560812,-4.0857402,gdW00B4VnAebq1PS6hwQBw,GB,2026,7,4,Scotland/Wales,,Scotland
+39.6456763,-98.1567797,US_KVA_FQzHMadJUA2tJ9Q,US,2026,5,4,US Plains,KS-14,"KS-14 / Jewell, Kansas"
+52.6765819,85.3549203,fAsc_DMwokhz5sWzyN75mQ,RU,2014,10,3,Russia W Siberia,Р366,"Р366 / Yasnaya Polyana, Altai Krai"
+23.4955164,56.8924714,gJIIkxc84ciuzeRDhNhUdA,OM,2024,5,4,Oman/Saudi,Ar Rustaq - Miskin Rd,Ar Rustaq - Miskin Rd / Ad Dhahirah Governorate
+-23.6621444,-51.6368501,P1QTWY63i7qSvtUrspGn7Q,BR,2025,8,4,Brazil South,,State of Paraná
+54.4322709,72.2305422,GK2Uwd8vcFgpdyWxmwHldA,RU,2021,7,4,Kazakhstan N,Tsentral'naya Ulitsa,Omsk Oblast
+40.2581103,41.6248187,ojb3j9UtQmXUAu28Zu0kLQ,TR,2025,5,4,Turkey,,Erzurum
+54.0079169,74.6772285,J8cu5hZ_2KW9Z9qoSu862Q,RU,2021,7,4,Kazakhstan N,,Omsk Oblast
+55.5962733,23.0453143,LgpdVGYzaU0_j933WQ5DmQ,LT,2023,5,4,Baltics,2115,"14 2115 / Maironiai, Šiauliai County"
+51.8183748,109.8526045,q5H4UpBi0s3QOMvMUCpZEw,RU,2021,8,4,Russia Transbaikal,Tsentral'naya Ulitsa,"40 Tsentral'naya Ulitsa / Kizhinga, Buryatia"
+41.4180976,-117.5495701,-I2a1Uj87b_DYDpg3hA9GA,US,2024,9,4,US Mountain/Desert,NV-290,"NV-290 / Paradise Valley, Nevada"
+46.8976645,19.5361653,s2swR-sWNJXypR-V8o_-sg,HU,2023,3,4,Hungary,5214,"5214 / Kerekegyháza, Bács-Kiskun"
+42.6961261,-6.3389111,2g1IWBq_vqHo1zGhQ3QD-w,ES,2025,9,4,Spain interior,LE-4306,"LE-4306 / Igüeña, Castile and León"
+19.9829035,-99.0904171,Fd2MZGKrZB18QrJmCSCDkg,MX,2021,8,4,Mexico Central,,State of Mexico
+41.072959,20.9533199,XrV0CYeF4OeQuouI1OddUw,MK,2025,8,4,Greece,,"Evla, Municipality of Resen"
+50.5922282,107.8626107,dha1NSFfNC398tfp80acmg,RU,2021,8,4,Russia Transbaikal,,"Malyi Kunalei, Buryatia"
+47.6702381,95.1163956,zCQEZwIzzIsKCXR_-xJr6w,MN,2024,7,4,Mongolia,,Zavkhan
+37.6147354,26.0979737,UZ4D7j8eSVB7WT8yCXgq2A,GR,2026,9,4,Greece,,Decentralized Administration of the Aegean
+48.6748601,15.7687942,BwXbR4Yexku0raJhcZB8Xw,AT,2025,5,4,Austria/Switzerland,Maigen,18 Maigen / Lower Austria
+57.39052,93.1396145,7lNIjW7PiIl0LGd3EyE2_Q,RU,2013,6,3,Russia C Siberia,R409,R409 / Krasnoyarsk Krai
+58.811286,29.2347941,NArjvk9upPLr1sVh-kFEUA,RU,2013,6,3,Russia European W,,Leningrad Oblast
+-21.5462692,-70.0842472,zDLuk_lajACackDMXx1NCg,CL,2025,10,4,Chile,Ruta 1,Ruta 1 / Antofagasta
+61.0689572,25.1139713,yXEkEkRBhnsBNaWysm2m6g,FI,2011,8,3,Finland,Rantatie,"Rantatie / Hämeenlinna, Kanta-Häme"
+60.690504,43.1131027,Da7D03Xio56Zp7WJBPtH2Q,RU,2021,7,4,Russia European N,,Vologda Oblast
+-30.0194341,-57.7434558,jMExbWY1g-HcH_NY_sIAZQ,AR,2026,6,4,Uruguay,RN14,RN14 / Corrientes Province
+-33.2335787,117.3601695,AtQWsQ_CABfSJ6L66_Jeng,AU,2025,8,4,Australia WA,Edwards Rd,"Edwards Rd / Piesseville, Western Australia"
+43.0516022,27.250577,S04JtbasG959ICZYlDVOrg,BG,2012,3,3,Bulgaria,,"Сладка вода, Varna"
+-9.1894262,124.5333259,bZWxtxA2378GQf5voCIVew,ID,2025,6,4,Indonesia Nusa Tenggara,,East Nusa Tenggara
+52.3560104,19.0455174,JtBfVOAmwt0WDqcGUfX7-w,PL,2025,7,4,Poland,,Kuyavian-Pomeranian Voivodeship
+58.3238376,46.4894618,m1WZm6Q1m89n6LKO9IefOQ,RU,2021,7,4,Russia European N,Ulitsa Na Kostromu,"Ulitsa Na Kostromu / Suprotivnyi, Kirov Oblast"
+-4.9155814,-42.6301861,B0cMrBqp92ETAyjI3lUfEw,BR,2025,5,4,Brazil NE interior,PI-113,PI-113 / State of Piauí
+46.0457796,-76.8182113,iF_HDHEkBrNCMrBzi3RMNw,CA,2025,5,4,Canada ON/QC,Chem. du Bois-Franc,Chem. du Bois-Franc / Quebec
+-24.5843595,-53.2782981,mrwgK45ejvRpaLETFVfXew,BR,2023,4,4,Brazil South,,State of Paraná
+-33.4751925,-58.9700054,Ur329CtB3sxFAfM26BqeWw,AR,2026,6,4,Argentina Pampas,RN12,175 RN12 / Entre Ríos Province
+39.2154404,43.2737737,XoaZECHSCR00CSu5lUZpeA,TR,2024,7,4,Turkey,,Van
+50.4921342,33.3316403,5Dqc99n_RGDuGR4OLCZVNw,UA,2015,6,3,Ukraine,Р60,Р60 / Poltava Oblast
+47.9770644,91.7330733,-oKIj_iev-BRIL-GStik5A,MN,2024,7,4,Mongolia,AH4,AH4 / Khovd
+18.84069,77.0893575,gt9bjwshH3GUpKyGygqwQA,IN,2023,9,3,India,,"Majare Sangvi, Maharashtra"
+45.3043286,133.4203537,9UolashcD5y67BQOYthhVw,RU,2013,6,3,Russia Far East,Ulitsa Na Lesozavodsk,"Ulitsa Na Lesozavodsk / Tikhmenevo, Primorsky Krai"
+47.2765389,-123.41516,-rVQDIFC5K4GBih-EZOsJQ,US,2026,4,4,US PNW interior,W Beeville Rd,"486 W Beeville Rd / Matlock, Washington"
+51.8616707,22.7273272,LGZ_Pitsulk_C7DyYob7Nw,PL,2026,4,4,Poland,Owieszanka,"15 Owieszanka / Turów, Lublin Voivodeship"
+37.1130501,30.6813687,F4EglrV9CIR60FS1Oyor6g,TR,2024,8,4,Turkey,,Antalya
+34.2730722,-85.2445787,2FSKefKcnK07Rl_XIxTZfQ,US,2024,3,4,US Deep South,Jordan Dr,"98 Jordan Dr / Rome, Georgia"
+48.98,15.2452157,Bz3rR3GQ98HY32ydMWIM6g,CZ,2026,4,4,Czechia/Slovakia,1527,"1527 / Staré Město pod Landštejnem, South Bohemian Region"
+16.5275753,121.4562734,f3wB8EdkPkxGWfMWTq7b5A,PH,2024,3,4,Philippines Luzon,,"Diffun, Cagayan Valley"
+-23.8941807,-52.5301506,Qy8dIWugJw7gjhB0QDetNw,BR,2026,8,4,Brazil South,Rod. Bento Fernandes Dias,Rod. Bento Fernandes Dias / Paraná
+68.4196405,16.627441,5UwqFJbKHRRN-EkcIbbSyw,NO,2022,6,4,Norway,,"Kjelde, Nordland"
+53.053039,117.6695203,faozfBqb5vo-gsWLieaa-g,RU,2013,7,3,Russia Transbaikal,Avtodoroga Amur,Avtodoroga Amur / Zabaykalsky Krai
+43.6786102,28.2890203,Z0lotM1d_cA1pJz4MmoeJw,BG,2022,10,4,Bulgaria,2963,"2963 / Sarnino, Dobrich Province"
+48.1208321,26.9481519,RpG-QsQ2weKPPVf_oET-Jw,RO,2024,10,4,Ukraine,DN24C,DN24C / Botoșani County
+3.4279523,102.7438199,9_RfvYqDXtf8c05hMX56Cg,MY,2024,2,4,Malaysia Peninsula,,"Maran, Pahang"
+50.2617296,44.8710906,PMbioCqx4t24XevtzsfZzQ,RU,2019,8,3,Russia S steppe,Kamyshin - Kotovo,"Kamyshin - Kotovo / Kotovo, Volgograd Oblast"
+23.4412576,57.1581879,rP50LTFm2v4L4nSfnXxYwA,OM,2024,11,4,Oman/Saudi,,Al Batinah South Governorate
+19.2141012,-101.6350711,Ih3CRCRhgtMJhvclx_2rbw,MX,2024,7,4,Mexico Central,,Michoacán
+31.7165729,-113.1662911,_T7Fhr0U8wpZvTc8BEvUGQ,MX,2025,7,4,Mexico North,Puerto Peñasco - Sonoyta,"Puerto Peñasco - Sonoyta / Sonoyta, Sonora"
+-4.3384187,121.5183262,T7vTvTtENYEO-pyJdF_brw,ID,2025,3,4,Indonesia Sulawesi,Jl. Poros Pomalaa-Boepinang,Jl. Poros Pomalaa-Boepinang / South East Sulawesi
+-40.8963995,-71.4714921,ryp2LQFYlqtApkK_dVBVxg,AR,2025,9,4,Argentina Patagonia,RN40,RN40 / Neuquén Province
+39.8026513,22.278479,aEIGIkoMiEL8pWfO2G8_FQ,GR,2025,7,4,Greece,ΕΟ Λάρισας Ελασσόνας,ΕΟ Λάρισας Ελασσόνας / Decentralized Administration of Thessaly and Central Greece
+57.2850371,87.9962255,Y30inlP2OwF6eLDi_rX4eQ,RU,2021,7,4,Russia W Siberia,Bol'she-Dorokhovo,"Bol'she-Dorokhovo / Baigaly, Tomsk Oblast"
+-15.5501071,-54.4262685,kky-EDX0zd3haca2lZZj6Q,BR,2023,11,4,Brazil Centre-West,,State of Mato Grosso
+50.3734879,22.4655229,9CrwTsqB6FidhNnKehjOSQ,PL,2026,6,4,Czechia/Slovakia,DW863,77 DW863
+41.5218683,20.2584014,HbDRw5LQ2aE6fVav8kqmAg,AL,2025,8,4,Albania/N.Macedonia,Rruga Kryesore,Rruga Kryesore / Dibër County
+42.4168706,-6.673671,9gb8s3ZDWVz4YkIY1I2gKw,ES,2025,6,4,Spain interior,LE-164,"LE-164 / Benuza, Castile and León"
+-7.4383558,108.8244074,SOFMD40vnmwXzju95qP5zA,ID,2015,10,3,Indonesia Java,,Central Java
+9.0021052,124.8502647,_1-V7oFFtHu9DexxsSk8Aw,PH,2025,6,4,Philippines Mindanao,,"Balingoan, Northern Mindanao"
+-32.5821467,118.0822375,diRSmk61P943vysXC-xF1A,AU,2025,8,4,Australia WA,Gorge Rock Lake Grace,"Gorge Rock Lake Grace / Kulin West, Western Australia"
+-40.5290395,172.728756,9bLULHq6ERAZVmSzeI-1cQ,NZ,2024,4,4,New Zealand,Collingwood-Puponga Main Rd,"2055 Collingwood-Puponga Main Rd / Pūponga, Tasman Region"
+46.4791679,61.8912736,6OZmXBNFZroU4np6kfOrxA,KZ,2023,6,4,Kazakhstan C/S,M32,M32 / Kyzylorda Region
+46.4048401,54.346459,naCE61J-8evdO2rR81YLZg,KZ,2023,7,4,Kazakhstan C/S,A-33,A-33 / Atyrau Region
+9.5978583,124.1097822,fKBb19SjooduWKW4jCFWIw,PH,2024,4,4,Philippines Visayas,,"Lila, Central Visayas"
+58.5739647,53.8868469,24oIrm_MCbmnE0ktJkl-lg,RU,2021,7,4,Russia Volga/Ural,57К-0057,57К-0057 / Perm Krai
+52.25997,35.82036,yEfWVBJ5WLTJnNlWbCCtIQ,RU,2018,9,3,Russia European W,М2,М2 / Kursk Oblast
+-26.9992243,25.177336,4QBLTXQiauxZ0pJpyijOew,ZA,2026,3,4,South Africa,,North West
+15.1866738,104.5390307,niMbAtyRJOjZAxN21TUznw,TH,2015,8,3,Thailand,,"Mueang Noi, Si Sa Ket"
+48.6258993,32.4625179,ninlXes4uvJkUcgl28r_qA,UA,2015,7,3,Ukraine,Е584,Е584 / Kirovohrad Oblast
+53.1868136,33.6206246,M0omXJgInH-QIO3XDkznkg,RU,2013,9,3,Russia European W,,Bryansk Oblast
+61.7999401,42.6050358,j1pScf68NdR_62XsDlQ0LA,RU,2013,7,3,Russia European N,М-8,"М-8 / Bereznik, Arkhangelsk Oblast"
+48.2034745,34.2092252,zR3A4NR1WyKjvkvpSbzfhg,UA,2015,7,3,Ukraine,Н11,Н11 / Dnipropetrovsk Oblast
+46.9544196,-68.0675833,2fSDC4ItcPUIwCECH2Dw4Q,US,2024,9,4,Canada ON/QC,Station Rd,"627 Station Rd / New Sweden, Maine"
+51.7912778,102.8797382,uXjV-aQfK7CRiqKDf0lL8w,RU,2021,7,4,Russia C Siberia,,"Zun-Murino, Buryatia"
+53.5975495,51.4624073,t63pbh7WpyxDseMqAiT0cw,RU,2019,8,3,Russia Volga/Ural,Kinel'-Cherkassy,"Kinel'-Cherkassy / Sarbai, Samara Oblast"
+22.5875975,-99.0559133,Fh7gyiyqpgwyqM8QXTbZtw,MX,2024,9,4,Mexico Central,Antiguo Morelos-Ciudad Mante,Antiguo Morelos-Ciudad Mante / Tamaulipas
+37.8680026,14.9003339,8b2PchoLGmrIM2hNoX2fbg,IT,2026,8,4,Italy S/islands,SS120,SS120 / Sicily
+57.8778707,84.385649,FAfdn5-GoK3dpmKJCgp1Og,RU,2021,8,4,Russia W Siberia,Mogochino,Mogochino / Tomsk Oblast
+-20.1400315,-50.3204913,gFToYyY0THh0y0pI1eyl5Q,BR,2024,4,4,Brazil Centre-West,R. Duque de Caxias,971 R. Duque de Caxias / State of São Paulo
+46.3535,97.3647773,4gos1oXgjjyhSt1CuHFJ0w,MN,2024,6,4,Mongolia,Altai Delger,"Altai Delger / Delger, Govi-Altai"
+-12.7611341,-56.2873776,v5nkNYWFPM4bqja4p0370A,BR,2024,6,4,Brazil Centre-West,MT-449,MT-449 / State of Mato Grosso
+61.6345139,21.4124961,8-EWg6pd5ssFLDtmgnyRhw,FI,2009,5,3,Sweden,Tahkoluodontie,"68 Tahkoluodontie / Pori, Satakunta"
+48.6222339,106.08792,AeDHOaE0j9lujcKl1nNMFg,MN,2015,3,3,Mongolia,AH3,AH3
+-33.4186759,-67.0756087,I3q-LGy1GR8XenSkd7cSPw,AR,2025,2,4,Argentina Cuyo,Au de las Serranías Puntanas,Au de las Serranías Puntanas / San Luis Province
+43.2298154,133.2881931,raO3fQvIZxvI7v3XQUb2Zg,RU,2013,7,3,Russia Far East,Frolovka-Sergeyevka,Frolovka-Sergeyevka / Primorsky Krai
+42.8861587,21.619496,07NX0lY367nrLR1WmvXHsw,RS,2025,5,4,Serbia/Bosnia/Croatia,39,39 / Rujkovac
+49.0056587,22.4470753,fiQBOgBwZ_XOWxK3XKltNw,SK,2024,7,4,Poland,3886,"3886 / Zboj, Prešov Region"
+-10.9704233,-60.8948696,JDq4Yi9MTy_bLpjil0spBQ,BR,2026,8,4,Bolivia,,Mato Grosso
+-11.523694,-61.3416295,pAxYpuwGY3Jmzh8owSTnbA,BR,2026,4,4,Brazil North,BR-364,18645 BR-364 / Rondônia
+57.8364688,13.3268431,H3i3kf4i8gZisSlkOdMG3g,SE,2025,6,4,Sweden,O 1835,O 1835 / Västra Götaland County
+-22.7208268,29.3561225,3zBkqqU965S0h438-RT2qA,ZA,2025,7,4,South Africa,,Limpopo
+-24.1638453,17.6979541,fFa9X6zH8tEeYrm7Bw6r6A,NA,2023,12,4,South Africa,B1,B1 / Hardap Region
+35.99404,-78.3127628,MnGlEN1w8NLX7e6Dv34yww,US,2024,12,4,US Appalachia,State Rd 1707,"371 State Rd 1707 / Louisburg, North Carolina"
+44.5008381,18.1385165,qZG9U1luh-vtVImGxBqSPw,BA,2025,7,4,Serbia/Bosnia/Croatia,,Federation of Bosnia and Herzegovina
+47.1841831,22.0431554,6nGw-PEd1zWUyxmO_fcttA,RO,2024,5,4,Romania,DC25,DC25 / Bihor County
+51.7955135,-8.3350968,Ufka2vm9lcGJq4KBR6onow,IE,2022,8,4,Ireland,R612,R612 / County Cork
+53.1320628,39.9539509,Bsyq6vtqczcYOiiPQfNenA,RU,2014,9,3,Russia European W,Центральная ул.,"Центральная ул. / Melekhovoe, Lipetsk Oblast"
+52.7044706,104.4421967,a4nAs841J_bcnRnletMS9A,RU,2013,6,3,Russia C Siberia,,Irkutsk Oblast
+44.9294511,21.1463064,ZicdIqp-yTFg3NxEOgqahQ,RS,2026,7,4,Serbia/Bosnia/Croatia,Banatska,"308 / Šušara, Vojvodina"
+12.8209945,100.9141374,LEwZgLWH0fRHmZVmq74Jeg,TH,2023,10,4,Thailand,ซอยนาจอมเทียน 28,"ซอยนาจอมเทียน 28 / Na Chom Thian, Chon Buri"
+37.3214615,-8.2854613,2dBH5wZa1wxz4QHLe-zRyA,PT,2024,11,4,Portugal interior,CM 1026-1,"CM 1026-1 / São Bartolomeu de Messines, Faro District"
+61.6137628,17.1390072,3rC4d3RNZolsNHQf7H9Gpw,SE,2025,8,4,Sweden,,Gavleborg County
+59.2382101,26.5752423,Y92ACfwPxYMLYZV9e-2gbw,EE,2011,7,3,Norway,Võhu–Sae tee,"Võhu–Sae tee / Võhu, Lääne-Viru County"
+46.3901382,96.4412421,rgdxTe-4uSHEodgC7sNdfw,MN,2024,6,4,Mongolia,,Govi-Altai
+-11.8612926,-42.6696237,x3LoLn4lZzqydETOcUagYQ,BR,2025,6,4,Brazil NE interior,,State of Bahia
+53.393133,38.6984893,NHFJgXIwW-n8j_Rga9I3bg,RU,2013,9,3,Russia European W,,Tula Oblast
+-33.9350724,-65.1487682,Km10GjvhO4AIfNCsdo696g,AR,2026,8,4,Argentina Pampas,RP14,RP14 / San Luis Province
+47.1449594,23.1994721,IGD6EjXF1911c4Ia0Vt5SQ,RO,2023,8,4,Romania,DJ108A,"50 DJ108A / Romita, Sălaj"
+-30.1993536,-51.451068,8VUF9oNP6A0G8vuXd9gJqA,BR,2019,7,4,Brazil South,,State of Rio Grande do Sul
+-30.3669457,-69.4108903,eA_Dvj2cIcHrENdYejb2_Q,AR,2026,5,4,Chile,RN150,RN150 / San Juan Province
+59.6072905,41.250273,n4R8yhapu2qc_dZngRnUWA,RU,2019,6,3,Russia European N,Р7,Р7 / Vologda Oblast
+-33.8951375,-56.2582149,Gi6RZYNDRZXvU15QvGGO1Q,UY,2015,9,3,Uruguay,Brigadier Gral. Fructuoso Rivera,Brigadier Gral. Fructuoso Rivera / Florida Department
+52.0616574,22.6143456,b3oVQ5oGnri0acuT0g5igA,PL,2026,8,4,Poland,,"Krzesk-Królowa Niwa, Masovian Voivodeship"
+49.9569794,-118.227141,8gqO50hFGNHmEI0Nn1DCSQ,CA,2026,6,4,Canada BC interior,BC-6,"BC-6 / Nakusp, British Columbia"
+35.6878338,-79.2750422,xPbUUgRp1sxSSaTj3Xfs_A,US,2026,9,4,US Appalachia,NC-902,"6460 NC-902 / Pittsboro, North Carolina"
+41.1598817,25.9520575,G2w7GOWwLrTdO9W-XbTZ2w,GR,2026,4,4,Greece,EO53,EO53 / Decentralized Administration of Macedonia and Thrace
+52.7372003,-105.4369228,1accDjrNG0Fmu31uxVRA8g,CA,2013,6,3,Canada Prairies,1 St E,"Railway Ave / Tway, Saskatchewan"
+49.5855453,-96.8210381,Dj4_RWqRpnWp6yN0ENDS2Q,CA,2024,7,4,Canada Prairies,MB-206,"MB-206 / Randolph, Manitoba"
+46.7814418,-68.0221595,SUfozsSuo6jSJVpYAWwt3Q,US,2024,9,4,Canada ON/QC,W Presque Isle Rd,"821 W Presque Isle Rd / Caribou, Maine"
+48.016014,106.7308142,E6O481v8OtEQyjjngCV74w,MN,2015,10,3,Mongolia,Nairamdalyn Rd,Nairamdalyn Rd / Ulaanbaatar
+61.949006,26.9444626,p0aVu-TnbD5c1Tg0-Cr05g,FI,2022,7,3,Finland,Lamminsyväntie,327 Lamminsyväntie / South Savo
+-34.7879171,-65.9255104,emOMLq-OBV7fl_-p_ixwAw,AR,2025,5,4,Argentina Pampas,RP12,RP12 / San Luis Province
+50.0747287,15.4213717,zCkWIhbQncRQyDanpqnquQ,CZ,2024,6,4,Czechia/Slovakia,32713,"32713 / Hlavečník, Pardubice Region"
+45.2400708,39.0750958,rZYKX1kY7bti5t4z7f54Sw,RU,2013,8,3,Russia S steppe,,"Karla Marksa, Krasnodar Krai"
+-7.0763873,-77.9027057,rXfiSxAe45_IW4E4MZE6cw,PE,2026,5,4,Peru,LI-109,LI-109 / La Libertad
+49.2025754,-102.8382668,DqMjkd1Adfn-RiuZmT-2Zw,CA,2025,7,4,Canada Prairies,SK-704,"SK-704 / Bienfait, Saskatchewan"
+58.3224138,14.6865683,-hLtKyZi8gTCscYvx1iDWg,SE,2025,8,4,Sweden,,Östergötland County
+33.726131,-101.6853152,9dID88cgkZc1wBcJZZTEjA,US,2023,4,4,US Texas interior,County Rd 5700,"8777 County Rd 5700 / Idalou, Texas"
+46.733377,142.1605051,gIrdDbFCrwgY6BE_94Aqrg,RU,2013,6,3,Russia Far East,64Н-6,64Н-6 / Sakhalin Oblast
+60.4337363,23.8508767,YpQMhJMsOTCQpf-FDNEMAQ,FI,2022,8,3,Finland,Järvenpääntie,"74 Järvenpääntie / Nummi-Pusula, Uusimaa"
+-16.2368512,136.0737846,GcG8bsXPNJwjZiF6aZcm6w,AU,2025,6,4,Australia NT,National Route 1,"National Route 1 / McArthur, Northern Territory"
+-28.8611578,-71.0974369,AgH1DT9Ha1sgb-KREY7nqA,CL,2024,4,4,Chile,C-494,C-494 / Atacama
+-35.6747174,-71.806598,QmxrNoLTLnREW40GwOotKw,CL,2024,5,4,Chile,L-32,"L-32 / Manantiales, Maule"
+44.7523394,21.5407219,9G6JgAMvWvFVEehC26MYRA,RS,2026,7,4,Romania,,
+7.7850599,122.6858603,rP7WG5B6e2mM7aXP5wJacw,PH,2016,3,3,Philippines Mindanao,,"Naga, Zamboanga Peninsula"
+55.8638235,72.0305148,o_dOuGmsjMpw4VDezjFoSA,RU,2021,7,4,Russia W Siberia,Ulitsa 30 Let Pobedy,Ulitsa Lenina / Omsk Oblast
+39.0696983,-115.0853373,N4Ul9P9TO7YS22YOxYDIkw,US,2026,9,4,US Mountain/Desert,US-6,US-6 / Nevada
+60.7349504,-115.5436983,lRCeA53rmFuaFtzeaFGEFQ,CA,2025,9,4,Canada North,Fort Smith Hwy,Fort Smith Hwy / Northwest Territories
+54.5277385,35.5833765,DJh6T03jSd95k8_1K7UKUA,RU,2018,6,3,Russia European W,Р132,Р132 / Kaluga Oblast
+-38.8972379,175.2095442,ZFwjMJIubNtuayHg6wlqEQ,NZ,2019,11,4,New Zealand,Kururau Rd,"Kururau Rd / Taumarunui, Manawatū-Whanganui Region"
+31.688599,-84.9982958,eJ-xXa6LSdA9ou4_mqCY_A,US,2024,1,4,US Deep South,Co Rd 43,"Co Rd 43 / Fort Gaines, Georgia"
+44.6172538,110.2190126,pAdn1ZPDVmqMdnxJTTXzJw,MN,2015,4,3,Mongolia,Khamriin Monastery Rd,Khamriin Monastery Rd / Dornogovi
+-24.512378,145.4604656,JNZkp9goqYjz1I88wtX0oQ,AU,2025,8,4,Australia QLD interior,,"Blackall, Queensland"
+43.4798826,23.9940915,2r7-bfd54yYHRWe7HAwxvg,BG,2023,8,4,Bulgaria,13,"13 / Byala Slatina, Vratsa"
+52.4678378,76.8413187,beH6vi8rpO_wpjHFYFSlpA,KZ,2022,10,4,Kazakhstan N,E127,E127 / Pavlodar Region
+-35.8730284,-69.1189004,yb65nORi1n0EYpORalT1sA,AR,2014,5,3,Argentina Cuyo,RP186,RP186 / Mendoza Province
+11.1767477,125.4935804,Bma6H27pVzEEn-VftDe61g,PH,2017,1,3,Philippines Visayas,,"Quinapondan, Eastern Visayas"
+-42.5783217,-70.5502396,T2ktB_7UmfLShK3od7j7hw,AR,2026,4,4,Argentina Patagonia,RP35,RP35 / Chubut Province
+29.4762508,-107.8653685,bkuvUq6ym1AliLR2qXZe_Q,MX,2024,11,4,Mexico North,,Chihuahua
+63.9141822,-135.485827,Lqm-t5C0UL-jcpsOxAXFog,CA,2026,8,4,Canada North,Silver Trl,"Silver Trl / Calumet, Yukon"
+-15.2441797,-58.5523149,w_Z2Nc4vk7IPNkvugNeyDA,BR,2026,8,4,Bolivia,MT-436,MT-436 / Mato Grosso
+-28.4655115,-58.4620978,or7jCNVK99rAkG3Zoqf5UQ,AR,2024,4,4,Argentina North,RP19,RP19 / Corrientes Province
+52.4563358,86.8205898,PVkCxvEuLot5Bk9gKGROTA,RU,2014,10,3,Russia W Siberia,84К-11,"15 84К-11 / Ozero-Kureevo, Altai Republic"
+-38.307086,-68.3762298,hr9LrBDR6dxUpwTCxNi9hA,AR,2025,11,4,Chile,RP8,RP8 / Neuquén Province
+-10.929834,-58.6934273,i6mAtqyPQgOdpnONEQR6ww,BR,2024,7,4,Brazil Centre-West,MT-170,MT-170 / State of Mato Grosso
+35.2589052,-78.0335468,n8uqsK3OtoLjHf8lOK5QDw,US,2025,5,4,US Appalachia,Brewington Dr,"131 Brewington Dr / Dudley, North Carolina"
+42.5043514,-114.0942757,rWReKBfOEryx1oV0SPDUxw,US,2024,4,4,US Montana/Wyoming,E 3425 N,"4838 E 3425 N / Hazelton, Idaho"
+54.3129966,23.8076935,AAzEPIEFFJg58MXJR91NSQ,LT,2019,6,3,Baltics,,Alytus County
+42.2341463,-107.9146187,UcuHd_SF8LRt7JOnu3_J2g,US,2025,8,4,US Mountain/Desert,Wamsutter-Crooks Gap Rd,Wamsutter-Crooks Gap Rd / Wyoming
+-23.3474587,-70.4263357,9Ltn_FMirsSRgO5JDEZaIA,CL,2025,8,4,Chile,Ruta 1,"Ruta 1 / Pampa, Antofagasta"
+16.9927081,-97.6640346,N8YmZzhMLiz8m4zTV_CfKg,MX,2024,6,4,Mexico South,,Oaxaca
+37.8250856,-98.2075547,vfrXKyJ8Y27U4sa4Jglr9A,US,2025,6,4,US Plains,W Parallel Rd,"19058 W Parallel Rd / Arlington, Kansas"
+52.0155346,-103.2438552,2Ijb9KCuFog-xxnkSpnaOw,CA,2025,8,4,Canada Prairies,SK-617,"SK-617 / Lintlaw, Saskatchewan"
+47.8236574,17.6242883,c4eEfaAN2_sw8hXl45TxmA,SK,2022,9,4,Hungary,1403,"1403 / Ňárad, Trnava Region"
+38.9041471,29.2493485,p-rWOV44AN9ERL8FwnPL8A,TR,2024,5,4,Turkey,,"Üzümlü, Kütahya"
+48.7985067,18.8804408,pXG2zPJ1ym2UH07H83A6bA,SK,2024,8,4,Czechia/Slovakia,65,"65 / Horná Štubňa, Žilina Region"
+2.7681865,102.8922167,fGAYxKNFJzYFHxrKsTvgLw,MY,2024,2,4,Indonesia Sumatra,Jln Pekoti Timur,"Jln Pekoti Timur / Muadzam Shah, Pahang"
+-0.4198319,100.0840794,g9lsJFkNBPRk8omWGkuRBw,ID,2024,6,4,Indonesia Sumatra,,West Sumatra
+52.5485432,62.3169512,-XqPOXA1Os0RbyL-JKtHng,KZ,2023,7,4,Kazakhstan N,A-22,A-22 / Kostanay Region
+-8.810479,116.9208713,dGHY3i3rMxSkWt3Ar20D5Q,ID,2025,5,4,Indonesia Nusa Tenggara,,West Nusa Tenggara
+1.8435885,101.0088435,TtSx1TkflJ9KmzrQWcQvQQ,ID,2016,3,3,Malaysia Peninsula,,Riau
+41.3101135,-96.813232,0C_ypGJhnTpnPoDqjOgmng,US,2025,7,4,US Plains,Co Rd 27,"2139 Co Rd 27 / Prague, Nebraska"
+16.4079893,-96.4972515,O0MSpO7VQ-RIdWS2fDE3tA,MX,2023,9,4,Mexico South,,Oaxaca
+-2.4828467,119.3736607,vSCa3Fzl0oU9kGGjzrKamg,ID,2025,11,4,Indonesia Sulawesi,Jl. Poros Salubatu,Jl. Poros Salubatu / West Sulawesi
+37.4614997,28.2436226,7shwWfO1PH5RscV2-pYsPA,TR,2026,5,4,Turkey,,Muğla
+-20.8702704,-44.4426792,CtRMphRZV_Ak4aUpRWhAlQ,BR,2024,10,4,Brazil MG/SP interior,LMG-839,LMG-839 / State of Minas Gerais
+56.5489513,35.0849215,t1_9aRhE4OxVrHdG_7XB3g,RU,2018,7,3,Russia European W,28К-0576,28К-0576 / Tver Oblast
+55.7368654,25.5379845,dcnzOtYC_04EO_WAfdzIxw,LT,2023,6,4,Baltics,3643,"Nečionys, Panevėžys County"
+49.9967839,95.4884572,rOWj365NI78fhP1mIxoLFw,RU,2013,6,3,Mongolia,Р-257,Р-257 / Tuva Republic
+19.2455555,54.4863919,M_M14yRONoT8Dx3EoxHyJQ,OM,2024,12,4,Oman/Saudi,,Dhofar Governorate
+-13.6170953,131.5326214,eysBRYn3bJfFLZl0CjqaYw,AU,2025,6,4,Australia NT,National Highway 1,"National Highway 1 / Douglas-Daly, Northern Territory"
+-14.0387934,-59.7502126,3GOpD3ZkYaA08dot4pzQlA,BR,2026,8,4,Brazil Centre-West,BR-174,BR-174 / Mato Grosso
+-29.0469976,-53.966988,AK0s0IvNPNbGCuYzlMD2xw,BR,2023,5,4,Brazil South,,State of Rio Grande do Sul
+30.4019504,35.274562,s8iCfXSUMCkKl0t-shOwPQ,JO,2017,1,3,Jordan,Jordan Valley Hwy,Jordan Valley Hwy / Aqaba Governorate
+-7.8795323,-71.7105228,T4AH-6_46g268WsfhUUJvg,BR,2026,8,4,Peru,BR-364,BR-364 / Acre
+64.3308548,18.9833419,JtXJ2_p0sfEKx5VR42bgww,SE,2025,8,4,Sweden,,Västerbotten County
+57.1586337,66.2481835,Ss77NIhx4K8ynvA0v6CiSw,RU,2018,7,3,Russia W Siberia,,Tyumen Oblast
+48.4979866,142.1363038,aslM1wpErXVGKZO8HgePsQ,RU,2013,6,3,Russia Far East,64Н-3,"64Н-3 / Aynskoye, Sakhalin Oblast"
+38.1519844,-80.9924778,_fGfA8N61dfoHc_irJEWDw,US,2025,10,4,US Appalachia,Stringtown Rd,"2213 Stringtown Rd / Victor, West Virginia"
+41.6207802,27.1699325,1DGSGZ5Carkg2ktuiO1tug,TR,2026,3,4,Bulgaria,D555,D555 / Kırklareli
+53.4460151,78.1958646,3rGpJkrb3e5co4ZiZcwQMA,RU,2018,7,3,Kazakhstan N,,"Burla, Altai Krai"
+48.5024122,-78.0259719,3wci-PP20xVIJxr86TbLSQ,CA,2013,8,3,Canada ON/QC,Chem. de la Rivière,"148 Chem. de la Rivière / Saint-Marc-de-Figuery, Quebec"
+56.2140968,70.0135559,AehBwxRtlIYj3I8z1Hk-1Q,RU,2018,7,3,Russia W Siberia,Р402,Р402 / Tyumen Oblast
+48.0939361,26.2799631,AJw_QhkRqC0Sfn0yIwWbwg,RO,2024,10,4,Ukraine,DJ291C,DJ291C / Botoșani County
+48.3537812,5.6329927,ywu1vBKzdjNbCYQ_oJZLWw,FR,2026,7,4,France rural,D71,"D71 / Mont-lès-Neufchâteau, Grand Est"
+50.3780912,142.6554292,NfGj9Hs-KUQdX5K9O4BxZw,RU,2013,6,3,Russia Far East,64Н-1,64Н-1 / Sakhalin Oblast
+-15.7445509,-43.4724237,IDqoh2NBnWbKhGmBR5r0WQ,BR,2023,11,4,Brazil MG/SP interior,,State of Minas Gerais
+5.5589564,115.9605496,eu6jaTMmi3NtPGKE6PviMQ,MY,2015,1,3,Malaysia Borneo,Jalan Bukit Manggis,"Jalan Bukit Manggis / Bongawan, Sabah"
+54.8330972,-6.5394903,zaGB1XKzKAHmCMRfsyAArg,GB,2025,10,4,Ireland,,Northern Ireland
+38.6260865,16.3954158,qnfdOKg3jr_-nCXsf3A2Gw,IT,2021,3,4,Italy S/islands,,Calabria
+66.5954078,19.3824571,M_D32xsUa5XjnCsmJWHyug,SE,2021,9,4,Norway,Pelnijaurevägen,Pelnijaurevägen / Norrbotten County
+54.5415589,-99.0588606,n0FEEZ6bGbTosEy97d6mJA,CA,2025,6,4,Canada Prairies,MB-6,MB-6 / Manitoba
+42.5301923,-5.8200749,YdhtPhZ_8CDYsdMNm6flsA,ES,2026,2,4,Spain interior,Cam. de los Aceiteros,"Cam. de los Aceiteros / Villadangos del Páramo, Castile and León"
+67.9017684,24.053648,Y2dDObKnPc6LHp76a-l62A,FI,2024,10,4,Finland,Heinäniementie,"294 Heinäniementie / Muonio, Lapland"
+41.6144649,-6.7604896,dwZ72ts-E3FCqEEagzgHPw,PT,2024,10,4,Spain interior,R. do Forte,28 R. do Forte / Bragança District
+49.0556502,21.6042577,0lQneHdpDNiEZYJ-hZGjDg,SK,2024,5,4,Poland,3635,"3635 / Vavrinec, Prešov Region"
+45.5140914,-87.7663848,Bv-Qwi3s1pmxcczH70x_hQ,US,2025,7,4,US Upper Midwest,Chalk Hill Rd,"8584 Chalk Hill Rd / Daggett, Michigan"
+-13.3381442,-72.1121303,377de2zGxqKRmoGF45zUMw,PE,2025,4,4,Peru,PE-28F,PE-28F / Cusco
+55.6056294,72.3832623,TYpy82p_hUXwKoHlcm900A,RU,2021,7,4,Russia W Siberia,Il'inka,Il'inka / Omsk Oblast
+-3.7634487,-80.6389322,oMxbruYMtF5PWgJarW1ZJw,PE,2026,1,4,Ecuador,,Tumbes
+30.7662288,-86.296212,OSdVnArRfxd73hmpU9ED5A,US,2014,4,3,US Deep South,Spring Hill Rd,"675 Spring Hill Rd / Defuniak Springs, Florida"
+47.896712,-121.4313552,QMc4BXfekSdqx26Utjn-xg,US,2025,8,4,US PNW interior,Index-Galena Rd,"60027 Index-Galena Rd / Sultan, Washington"
+43.8885408,51.0434093,HaiVQTGViqr_yUGwQ3u-Bg,KZ,2023,7,4,Kazakhstan C/S,,Mangystau Region
+54.0575504,75.2203451,_h8ErypKZb7Qhmag9Hejtg,RU,2021,6,4,Kazakhstan N,Bol'shoy Atmas,Bol'shoy Atmas / Omsk Oblast
+-41.1696302,147.6509186,ocZhN7ivUVLhi9H4M5oxGQ,AU,2026,2,4,Australia Tasmania,Tasman Hwy,"33869 Tasman Hwy / Tulendeena, Tasmania"
+4.2138543,101.1345243,SC2f_EA7j9KVtcfrFxhVHQ,MY,2024,3,4,Indonesia Sumatra,,"Kampar, Perak"
+-32.6777351,-63.2276281,9II8Adp3iNgT6blEmOJuHQ,AR,2023,10,4,Argentina North,,Córdoba Province
+51.7088798,-113.6220013,CWCYU3pMFPMfND9xzgMphw,CA,2024,5,4,Canada Prairies,AB-583,"262003 AB-583 / Torrington, Alberta"
+-26.5931915,25.8831646,vZe1VnYgHJDYvpV6-Bld0w,ZA,2026,4,4,South Africa,,North West
+-31.0675054,-60.0930487,5TsTixe-1_uCDg-a71F64A,AR,2025,6,4,Argentina North,RP1,RP1 / Santa Fe Province
+61.2429298,8.9306151,Na9859VMWizv8kO2aNyz2Q,NO,2024,10,4,Norway,Øvre Stølslie,"7 Øvre Stølslie / Beitostølen, Innlandet"
+51.9214383,66.2107796,feypYCEN_UtDt_SdBtKfNw,KZ,2023,7,4,Kazakhstan N,R-263,R-263 / Akmola Region
+50.8809507,39.1832372,L1bFBuEnpHtsbLhtRnhGlg,RU,2021,3,4,Russia S steppe,,Voronezh Oblast
+58.3736359,51.8042831,SHRIVJ5HYc50-ZhzVkx2nQ,RU,2013,9,3,Russia Volga/Ural,Falonki-Glazov,Falonki-Glazov / Kirov Oblast
+65.7477886,17.1028065,Popf0fHtM8vZD3yjcGQGVw,SE,2026,9,4,Sweden,363,363 / Västerbotten County
+-18.4503187,-53.431759,uz5hZ-dowOY3vi0kTOVXFA,BR,2025,7,4,Brazil Centre-West,BR-359,BR-359 / State of Mato Grosso do Sul
+-7.2843615,107.3596906,dgks987w122ks3hPcrqksQ,ID,2026,2,4,Indonesia Java,Suka Bakti,Suka Bakti / West Java
+16.3572603,-92.2112669,ZwiDtiy2rdzRBKJygqnSeQ,MX,2025,4,4,Mexico South,Comitán de Domínguez - San Cristóbal de Las Casas,"1203 Comitán de Domínguez - San Cristóbal de Las Casas / Las Rosas, Chiapas"
+-0.7862142,122.5140125,3bRuRmBs7ZWxatXq8Q3c3A,ID,2023,11,4,Indonesia Sulawesi,,Central Sulawesi
+61.3271334,44.5219142,mVoDv1jDA0Ae4IcfhWloCA,RU,2021,8,4,Russia European N,,Arkhangelsk Oblast
+21.2561685,-87.7539269,1sea_fOlHv1FjfQ26HYxOw,MX,2025,3,4,Mexico Yucatan,Carrt. La Libertad,Carrt. La Libertad / Yucatan
+46.6825255,0.5380405,eZGljg8UMOv1OZ8Zyyl2Cw,FR,2025,9,4,France rural,Boierie,"2 Boierie / Bonneuil-Matours, Nouvelle-Aquitaine"
+57.0934045,88.2612966,3mWoLm5C6V8BbwbOQgApiQ,RU,2021,7,4,Russia C Siberia,"Pod""Yezd K Posolku Chet'-Kontorka","Pod""Yezd K Posolku Chet'-Kontorka / Pokrovskii Yar, Tomsk Oblast"
+50.866816,23.4095239,8VHNuJbvuPfZRMh_g-ZNxA,PL,2024,7,4,Ukraine,,Lublin Voivodeship
+14.6605802,121.2697958,5_rfwcBcLBH2vwo5a5fmqg,PH,2026,4,4,Philippines Luzon,San Jose Rd,"San Jose Rd / Antipolo, Calabarzon"
+60.9822564,41.0880124,7-8bGqt9a--BVwKpm6_8xA,RU,2021,8,4,Russia European N,,Arkhangelsk Oblast
+11.453143,124.3817282,VfpTJqWdI6fOR8q833YGGA,PH,2016,10,3,Philippines Visayas,,"Calubian, Eastern Visayas"
+63.1546378,52.5576252,52zjPzKLK1V7aDBQB4GjGA,RU,2021,7,4,Russia European N,Р25,Р25 / Komi Republic
+46.3878769,21.1612723,BwQj887giKqziGSYqfNn4g,HU,2025,5,4,Romania,4444,"4444 / Kevermes, Békés County"
+-34.0906143,136.3377577,pGFluweLCxXLL--13vTBZg,AU,2026,4,4,Australia SA,B100,"8570 B100 / Port Neill, South Australia"
+66.5528299,25.2528175,BrkvaXSMZnR5H0tYKi9uUg,FI,2022,7,3,Finland,Kelovaarantie,"705 Kelovaarantie / Rovaniemi, Lapland"
+47.9170485,17.4315008,RRQ4P-8B7d3a1LHU2AMD7A,HU,2019,7,4,Hungary,,"Dunasziget, Gyor-Moson-Sopron"
+-7.1462593,113.0276758,6JjRWUFqv3Yi3973syyahw,ID,2025,3,4,Indonesia Java,,East Java
+30.7474096,-98.10659,ZUX_oKHAzs3stPpNRiUgyQ,US,2025,3,4,US Texas interior,TX-29,"3680 TX-29 / Bertram, Texas"
+58.5584679,52.2105025,HzD1Tcg0ZHWfYxpvyU_WkQ,RU,2019,7,3,Russia European N,,Kirov Oblast
+-11.3358974,-61.0243257,V6IJ1RbnZgDCL8AQG3JqQA,BR,2026,8,4,Bolivia,RO-387,RO-387 / Rondônia
+-14.8566093,-41.1064989,339f4xPCn5s12oqbCMNluQ,BR,2023,5,4,Brazil NE interior,,State of Bahia
+-26.4769995,25.7607828,poUi6zXbt_NRqv1B74OCpQ,ZA,2026,5,4,South Africa,R375,R375 / North West
+46.9219271,-117.0601807,ca78KrpySqN3aeuxL_4u4w,US,2025,5,4,US PNW interior,WA-272,"17892 WA-272 / Palouse, Washington"
+-32.0356827,137.4461346,5BBoLO0MIyOU4Vih9ikd2Q,AU,2026,7,4,Australia SA,Stuart Hwy,"Stuart Hwy / Kootaberra, South Australia"
+55.7212622,101.1071625,R8KbAYu7cP8DtpZ94OcNPA,RU,2013,6,3,Russia C Siberia,Р419,Р419 / Irkutsk Oblast
+53.6988468,60.3885421,gZWVJ_ZoMYOKeho4erpQHA,RU,2013,9,3,Kazakhstan N,75 K-352,"75 K-352 / Svetloe, Chelyabinsk Oblast"
+58.4591476,29.7628275,VKl4nqSulG6qAviaLEKfeg,RU,2018,7,3,Russia European W,Р-23,Р-23 / Leningrad Oblast
+57.1491271,35.4350233,fJjr9qerAizmZJFoxUCeCQ,RU,2021,8,4,Russia European W,,Tver Oblast
+65.8939118,-21.2827485,htnoKgiq90gd8SiHcXyunw,IS,2024,8,4,Iceland,643,643 / Kaldrananeshreppur
+58.8113197,25.079178,heKO6Ir_FQ-SLAxB0FcaGw,EE,2011,7,3,Baltics,Määrasmaa tee,"Määrasmaa tee / Jõeküla, Rapla County"
+49.4340155,142.8433439,PhHWFGriZQf0eslrOQtyvQ,RU,2013,6,3,Russia Far East,64Н-1,"64Н-1 / Matrosovo, Sakhalin Oblast"
+-1.1136123,-80.2015889,AVwdCFFNXiv8e-MiXHxNfA,EC,2015,7,3,Ecuador,E462 B,E462 B / Manabí
+4.7240097,101.6690719,T5ThWI94UKIEgrsh0V_p4g,MY,2025,4,4,Malaysia Peninsula,Jalan Gua Musang - Cameron Highlands,"Jalan Gua Musang - Cameron Highlands / Gua Musang, Kelantan"
+53.970032,58.6432866,4IZHgY43FkBoUO8q5Fcgdw,RU,2013,8,3,Russia Volga/Ural,Beloretsk,Beloretsk / Republic of Bashkortostan
+-31.651397,28.3214823,oVaSONdEKXay9-uHjkhiOw,ZA,2024,8,4,South Africa,R61,"R61 / Mputi, Eastern Cape"
+43.3962308,131.736267,Gyn928xyreqjOqmeKVKNkw,RU,2013,7,3,Russia Far East,А189,А189 / Primorsky Krai
